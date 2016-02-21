@@ -47,7 +47,7 @@ For example, if you want to use this software to label the file input.txt, ilp f
 	$ python vnSRL.py input.txt 1 glove output.txt
 ```
 
-Note: In our experiment, integer linear programming method helps to improve the performance about 0.4% but takes very long time to run (about 50x longer).
+**Note**: In our experiment, integer linear programming method helps to improve the performance about 0.4% but takes very long time to run (about 50x longer).
 
 ## 4. References
 

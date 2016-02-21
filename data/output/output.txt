@@ -1,0 +1,522 @@
+( S-TTL ( NP-SUB ( Nc-H Mảnh ) ( N đất ) ( PP ( E-H của ) ( NP ( N-H đạn ) ( N-H bom ) ) ) ) ( VP ( R không ) ( V-H còn ) ( NP-DOB ( N-H người ) ( A nghèo ) ) ) )
+- Predicate: còn - Arg0: Mảnh đất của đạn bom - ArgM-NEG: không - Arg1: người nghèo - 
+
+( S ( NP-SUB ( N-H Chiến_tranh ) ( VP ( V-H đi ) ( V qua ) ) ) ( VP ( V-H để ) ( R lại ) ( NP-LOC ( N-H quê_hương ) ( Np Thái_Mỹ ) ( NP ( N-H huyện ) ( Np Củ_Chi ) ( LBKT LBKT ) ( NP ( Np TP.HCM ) ) ( RBKT RBKT ) ) ) ( NP-DOB ( NP ( N-H hộ ) ( N gia_đình ) ( N chính_sách ) ) ( CC và ) ( NP ( A hơn ) ( M 2.000 ) ( Nu-H ha ) ( NP ( N-H đất ) ( N thép ) ) ) ) ) )
+- Predicate: để - Arg0: Chiến_tranh đi qua - ArgM-TMP: lại - ArgM-LOC: quê_hương Thái_Mỹ huyện Củ_Chi LBKT TP.HCM RBKT - Arg1: hộ gia_đình chính_sách và hơn 2.000 ha đất thép - 
+- Predicate: đi - ArgM-DIR: qua - 
+
+( S ( VP-ADV ( V-H Buông ) ( N súng ) ) ( NP-SUB ( N-H người ) ( Np Thái_Mỹ ) ) ( VP ( VP ( V-H cố ) ( V quên ) ( NP-DOB ( L những ) ( N-H mất_mát ) ) ) ( VP ( V-H cầm ) ( V lấy ) ( NP-DOB ( Nc-H cây ) ( N cuốc ) ) ) ) )
+- Predicate: Buông - Arg0: người Thái_Mỹ - 
+- Predicate: cố - ArgM-ADV: Buông súng - Arg0: người Thái_Mỹ - ArgM-MOD: quên - Arg1: những mất_mát - 
+- Predicate: cầm - ArgM-ADV: Buông súng - Arg0: người Thái_Mỹ - Arg1: cây cuốc - 
+
+( S ( C Nhưng ) ( NP-SUB ( Nc-H mảnh ) ( N đất ) ( VP ( V-H thấm ) ( NP-DOB ( N-H máu ) ( PP ( E-H của ) ( NP ( A gần ) ( M 500 ) ( N-H liệt_sĩ ) ) ) ) ) ( CC và ) ( AP ( A-H đầy ) ( NP ( Nc-H mảnh ) ( N bom_đạn ) ) ) ( P ấy ) ) ( VP ( R không ) ( V-H đủ ) ( NP-DOB ( NP ( Nc-H cái ) ( V ăn ) ) ( NP ( Nc-H cái ) ( V mặc ) ) ) ) )
+- Predicate: đủ - ArgM-DIS: Nhưng - Arg0: mảnh đất thấm máu của gần 500 liệt_sĩ và đầy mảnh bom_đạn ấy - ArgM-NEG: không - Arg1: cái ăn cái mặc - 
+- Predicate: thấm - ArgM-DIS: Nhưng - Arg1: máu của gần 500 liệt_sĩ - ArgM-MNR: đầy mảnh bom_đạn - 
+- Predicate: đầy - ArgM-DIS: Nhưng - Arg1: mảnh bom_đạn - 
+
+( S ( S ( NP-SUB *E* ) ( VP ( R Lại ) ( V-H quăng ) ( NP-DOB ( N-H cuốc ) ) ) ) ( S ( NP-SUB ( A gần ) ( M 90% ) ( N-H gia_đình ) ) ( VP ( V-H phải ) ( VP ( V-H đeo ) ( NP-DOB ( N-H giỏ ) ) ) ( VP ( V-H đi ) ( V buôn_lậu ) ) ) ) )
+- Predicate: quăng - Arg0: *E* - ArgM-TMP: Lại - Arg1: cuốc - 
+- Predicate: phải - Arg0: gần 90% gia_đình - Arg1: đi buôn_lậu - 
+- Predicate: đeo - Arg0: gần 90% gia_đình - ArgM-MOD: phải - Arg1: giỏ - 
+- Predicate: đi - Arg0: gần 90% gia_đình - ArgM-MOD: phải - 
+
+( S ( C Nhưng ) ( S ( NP-SUB ( P-H đó ) ) ( VP ( V-H là ) ( NP ( N-H chuyện ) ( PP ( E-H của ) ( NP ( Np-H Thái_Mỹ ) ) ) ( NP-TMP ( M 20 ) ( N-H năm ) ( PP ( E-H về ) ( NP ( N-H trước ) ) ) ) ) ) ) ( C còn ) ( NP-TMP ( P-H bây_giờ ) ) )
+- Predicate: là - Arg0: đó - Arg1: chuyện của Thái_Mỹ 20 năm về trước - 
+
+( S-TTL ( NP-SUB ( N-H Đất ) ( A nghèo ) ) ( VP ( V-H trở_mình ) ) )
+- Predicate: trở_mình - Arg0: Đất nghèo - 
+
+( S ( NP-SUB ( N-H Chỗ ) ( P này ) ) ( NP-TMP ( N-H xưa ) ) ( VP ( V-H là ) ( NP ( N-H đồn_bót ) ) ) ( T nè ) )
+- Predicate: là - Arg0: Chỗ này - ArgM-TMP: xưa - Arg1: đồn_bót - ArgM-Partice: nè - 
+
+( S ( NP-SUB ( P-H Kia ) ) ( VP ( V-H là ) ( NP ( L những ) ( Nc-H ngôi ) ( N nhà ) ( NP ( N-H vách ) ( N đất ) ) ) ) )
+- Predicate: là - Arg0: Kia - Arg1: những ngôi nhà vách đất - 
+
+( S ( S ( AP-SUB ( A-H Xa_xa ) ( R nữa ) ) ( VP ( V-H là ) ( NP ( NP ( N-H hố ) ( N bom ) ) ( NP-LOC ( N-H nơi ) ( SBAR ( S ( NP-SUB ( P-H tui ) ) ( VP ( R đã ) ( V-H gửi ) ( R lại ) ( NP-DOB ( NP ( M một ) ( Nc-H con ) ( N mắt ) ) ( CC và ) ( NP ( M hai ) ( N-H cánh_tay ) ) ) ) ) ) ) ) ) ) ( S ( NP-SUB ( Nc-H anh ) ( Np Phan_Văn_Đu ) ) ( VP ( V-H giới_thiệu ) ( PP ( PP ( E-H với ) ( NP ( N-H khách ) ) ) ( PP-MNR ( E-H bằng ) ( NP ( M hai ) ( N-H cùi_tay ) ( A cụt_lủn ) ) ) ) ) ) )
+- Predicate: là - Arg0: Xa_xa nữa - Arg1: hố bom - ArgM-LOC: nơi tui đã gửi lại một con mắt và hai cánh_tay - 
+- Predicate: giới_thiệu - Arg0: anh Phan_Văn_Đu - ArgM-COM: với khách - ArgM-MNR: bằng hai cùi_tay cụt_lủn - 
+- Predicate: gửi - Arg0: tui - ArgM-TMP: đã - ArgM-TMP: lại - Arg1: một con mắt và hai cánh_tay - 
+- Predicate: Xa_xa - ArgM-TMP: nữa - 
+
+( S ( PP-MNR ( R Cũng ) ( E-H bằng ) ( NP ( M hai ) ( N-H cùi_tay ) ( AP ( A-H lạ_đời ) ) ) ) ( NP-SUB ( N-H anh ) ) ( VP ( V-H lái ) ( NP-DOB ( N-H xe_máy ) ( AP ( A-H băng_băng ) ) ( PP-LOC ( E-H trên ) ( NP ( Nc-H con ) ( N đường ) ( AP ( A-H phẳng_lì ) ) ) ) ) ) )
+- Predicate: lái - ArgM-MNR: Cũng bằng hai cùi_tay lạ_đời - Arg0: anh - Arg1: xe_máy băng_băng trên con đường phẳng_lì - 
+- Predicate: lạ_đời - ArgM-TMP: Cũng - Arg0: anh - Arg1: lái xe_máy băng_băng trên con đường phẳng_lì - 
+- Predicate: băng_băng - ArgM-MNR: Cũng bằng hai cùi_tay lạ_đời - Arg0: anh - ArgM-LOC: trên con đường phẳng_lì - 
+- Predicate: phẳng_lì - ArgM-TMP: Cũng bằng hai cùi_tay lạ_đời - Arg0: anh - ArgM-MOD: lái - ArgM-MNR: băng_băng - 
+
+( S ( S ( NP-SUB ( P Tất_cả ) ( N-H đường ) ( N bêtông ) ( NP ( N-H nội_đồng ) ) ) ( VP ( V-H là ) ( NP ( N-H thành_quả ) ( SBAR ( S ( NP-SUB ( N-H Nhà_nước ) ( CC và ) ( N-H nhân_dân ) ) ( VP ( A cùng ) ( V-H làm ) ) ) ) ) ) ) ( S ( NP-SUB ( N-H anh ) ) ( AP-PRD ( A-H tự_hào ) ) ) )
+- Predicate: là - Arg0: Tất_cả đường bêtông nội_đồng - Arg1: thành_quả Nhà_nước và nhân_dân cùng làm - 
+- Predicate: làm - Arg0: Nhà_nước và nhân_dân - ArgM-MNR: cùng - 
+- Predicate: tự_hào - Arg0: anh - 
+
+( S ( NP-SUB ( N-H Dân ) ) ( VP ( V-H tình_nguyện ) ( VP ( VP ( V-H thu_hẹp ) ( NP-DOB ( Nc-H mảnh ) ( N vườn ) ( NP ( N-H nhà ) ( P mình ) ) ) ) ( VP ( V-H hiến ) ( NP-DOB ( N-H đất ) ) ( PP-IOB ( E-H cho ) ( NP ( Nc-H con ) ( N đường ) ( A chung ) ) ) ) ) ) )
+- Predicate: tình_nguyện - Arg0: Dân - 
+- Predicate: thu_hẹp - Arg0: Dân - Arg1: mảnh vườn nhà mình - 
+- Predicate: hiến - Arg0: Dân - ArgM-TMP: tình_nguyện - Arg1: đất - Arg2: cho con đường chung - 
+
+( S ( NP-SUB ( N-H Chuyện ) ( SBAR ( S ( NP-SUB ( N-H người_người ) ) ( VP ( VP ( V-H cầm ) ( NP-DOB ( N-H xẻng ) ) ) ( VP ( V-H ào ) ( V ra ) ( VP ( A cùng ) ( V-H đắp ) ( NP-DOB ( N-H đường ) ) ) ) ) ) ) ) ( VP ( R chỉ ) ( V-H là ) ( NP ( N-H chuyện ) ( A nhỏ ) ) ) )
+- Predicate: là - Arg0: Chuyện người_người cầm xẻng ào ra cùng đắp đường - ArgM-EXT: chỉ - Arg1: chuyện nhỏ - 
+- Predicate: cầm - Arg0: người_người - Arg1: xẻng - 
+- Predicate: ào - Arg0: người_người - ArgM-DIR: ra - 
+- Predicate: đắp - Arg0: người_người - ArgM-MOD: ra - ArgM-MNR: cùng - Arg1: đường - 
+
+( S ( NP-SUB ( P-H Ai_nấy ) ) ( VP ( R đều ) ( V-H muốn ) ( SBAR ( S ( NP-SUB ( N-H đời ) ( P mình ) ) ( VP ( R cũng ) ( V-H phải ) ( VP ( V-H sang ) ( N trang ) ) ) ) ) ) )
+- Predicate: muốn - Arg0: Ai_nấy - ArgM-TMP: đều - 
+- Predicate: phải - Arg0: đời mình - ArgM-TMP: cũng - 
+- Predicate: sang - Arg0: đời mình - ArgM-TMP: cũng - ArgM-MOD: phải - 
+
+( S ( NP-SUB ( N-H giọng ) ( NP ( Nc-H người ) ( N cựu_chiến_binh ) ) ) ( AP-PRD ( A-H nhẹ_tênh ) ) )
+- Predicate: nhẹ_tênh - Arg0: giọng người cựu_chiến_binh - 
+
+( S ( NP-SUB ( N-H Trang ) ( AP ( A-H mới ) ( R nhất ) ( PP ( E-H của ) ( NP ( N-H cuộc_sống ) ( Np Thái_Mỹ ) ) ) ) ) ( VP ( V-H bày ) ( R ra ) ( PP-LOC ( E-H trước ) ( NP ( N-H mắt ) ) ) ( SBAR ( S ( NP-SUB ( L các ) ( N-H em ) ( N học_sinh ) ) ( VP ( R đang ) ( V-H đến ) ( NP-DOB ( N-H trường ) ) ( PP-LOC ( E-H dưới ) ( NP ( Nc-H con ) ( N đường ) ( AP ( A-H xanh_ngắt ) ( NP ( N-H bóng ) ( N tre ) ) ) ) ) ) ) ) ) )
+- Predicate: bày - Arg0: Trang mới nhất của cuộc_sống Thái_Mỹ - ArgM-LOC: trước mắt - 
+- Predicate: đến - Arg0: các em học_sinh - ArgM-TMP: đang - Arg1: trường - ArgM-LOC: dưới con đường xanh_ngắt bóng tre - 
+- Predicate: mới - ArgM-EXT: nhất - ArgM-ADV: của cuộc_sống Thái_Mỹ - 
+- Predicate: xanh_ngắt - Arg0: các em học_sinh - ArgM-TMP: đang - ArgM-MOD: đến - Arg1: trường - ArgM-COM: bóng tre - 
+
+( S ( VP-SUB ( V-H Thấp_thoáng ) ( NP-LOC ( N-H phía ) ( N sau ) ) ) ( VP ( V-H *E* ) ( NP-DOB ( L những ) ( Nc-H ngôi ) ( N nhà ) ( NP ( N-H ngói ) ( AP ( A-H đỏ ) ( A-H mới ) ) ) ) ) )
+- Predicate: Thấp_thoáng - ArgM-LOC: phía sau - 
+- Predicate: *E* - Arg0: Thấp_thoáng phía sau - Arg1: những ngôi nhà ngói đỏ mới - 
+- Predicate: đỏ - Arg0: Thấp_thoáng phía sau - ArgM-MOD: *E* - Arg1: nhà - ArgM-MNR: mới - 
+- Predicate: mới - Arg0: Thấp_thoáng phía sau - ArgM-MOD: *E* - ArgM-MNR: đỏ - 
+
+( S ( NP-SUB ( N-H Sau ) ( R nữa ) ) ( VP ( V-H là ) ( NP ( N-H đường ) ( N dây_điện ) ( VP ( V-H chạy ) ( R vào ) ( NP-DOB ( P từng ) ( N-H gia_đình ) ) ) ) ) )
+- Predicate: là - Arg0: Sau nữa - Arg1: đường dây_điện chạy vào từng gia_đình - 
+- Predicate: chạy - Arg0: Sau nữa - ArgM-MOD: là - ArgM-TMP: vào - Arg1: từng gia_đình - 
+
+( S ( C Không_những ) ( VP-ADV ( V-H thắp ) ( A sáng ) ( PP-LOC ( E-H trong ) ( NP ( N-H nhà ) ) ) ) ( NP-TMP ( N-H ban_đêm ) ) ( NP-SUB ( N-H điện ) ) ( VP ( R còn ) ( V-H giăng ) ( A sáng_choang ) ( NP-LOC ( A khắp ) ( N-H ngả ) ( N đường ) ( NP ( Z liên ) ( N-H thôn ) ) ) ) )
+- Predicate: thắp - ArgM-MNR: sáng - ArgM-LOC: trong nhà - ArgM-ADV: ban_đêm - Arg0: điện - 
+- Predicate: giăng - ArgM-ADV: thắp sáng trong nhà - ArgM-TMP: ban_đêm - Arg0: điện - ArgM-TMP: còn - ArgM-MNR: sáng_choang - ArgM-LOC: khắp ngả đường liên thôn - 
+
+( S ( S-SUB ( NP-SUB ( N-H Dự_án ) ( N thủy_lợi ) ) ( VP ( V-H trị_giá ) ( NP-DOB ( M 2,2 ) ( M tỉ ) ( Nu-H đồng ) ) ) ( VP ( V-H ra_đời ) ) ) ( VP ( R chỉ ) ( V-H là ) ( NP ( M một ) ( E trong ) ( L vô_vàn ) ( N-H chuyện ) ( A nhỏ ) ) ) )
+- Predicate: là - Arg0: Dự_án thủy_lợi trị_giá 2 2 tỉ đồng ra_đời - ArgM-EXT: chỉ - Arg1: một trong vô_vàn chuyện nhỏ - 
+- Predicate: trị_giá - Arg0: Dự_án thủy_lợi - Arg1: 2 2 tỉ đồng - 
+- Predicate: ra_đời - Arg0: Dự_án thủy_lợi - 
+
+( S ( PP-TMP ( E-H Từ ) ( NP ( P-H đây ) ) ) ( NP-SUB ( N-H ruộng ) ( AP ( A-H nhọc_nhằn ) ) ( NP ( M một ) ( N-H vụ ) ) ) ( VP ( V-H thi_đua ) ( VP-PRP ( V-H trồng ) ( NP-DOB ( M ba ) ( N-H vụ ) ) ) ) )
+- Predicate: thi_đua - ArgM-TMP: Từ đây - Arg0: ruộng nhọc_nhằn một vụ - 
+- Predicate: trồng - ArgM-TMP: Từ đây - Arg0: ruộng nhọc_nhằn một vụ - ArgM-NEG: thi_đua - Arg1: ba vụ - 
+- Predicate: nhọc_nhằn - ArgM-TMP: Từ đây - Arg1: một vụ - 
+
+( S ( VP-ADV ( V-H Nhìn ) ( NP ( N-H cánh ) ( N đồng ) ( AP ( A-H xanh ) ( A mướt ) ) ) ) ( S-SUB ( NP-SUB ( Nc-H người ) ( N thương_binh ) ) ( VP ( R từng ) ( V-H trải ) ( V qua ) ( NP-TMP ( M hai ) ( N-H thời_kỳ ) ) ( P ấy ) ) ) ( VP ( V-H ôn ) ( R lại ) ( SBAR ( S ( NP-TMP ( N-H Hồi ) ( P đó ) ) ( PP-LOC ( E-H dưới ) ( NP ( N-H đất ) ) ) ( NP-SUB ( N-H bom ) ( N-H mìn ) ) ( AP-PRD ( R còn ) ( A-H lủ_khủ ) ) ) ) ) )
+- Predicate: Nhìn - Arg0: người thương_binh từng trải qua hai thời_kỳ ấy - 
+- Predicate: ôn - ArgM-ADV: Nhìn cánh đồng xanh mướt - Arg0: người thương_binh từng trải qua hai thời_kỳ ấy - ArgM-TMP: lại - 
+- Predicate: trải - Arg0: người thương_binh - ArgM-TMP: từng - ArgM-DIR: qua - ArgM-TMP: hai thời_kỳ - 
+- Predicate: xanh - ArgM-MOD: Nhìn - ArgM-MNR: mướt - Arg0: người thương_binh từng trải qua hai thời_kỳ ấy - 
+- Predicate: lủ_khủ - ArgM-TMP: Hồi đó - ArgM-LOC: dưới đất - Arg0: bom mìn - ArgM-TMP: còn - 
+
+( S ( PP-LOC ( E-H Trên ) ( NP ( N-H mặt_đất ) ) ) ( NP-SUB ( N-H đồn_bót ) ) ( VP ( V-H phơi ) ( AP-MNR ( A-H trơ_trơ ) ) ) )
+- Predicate: phơi - ArgM-LOC: Trên mặt_đất - Arg0: đồn_bót - ArgM-MNR: trơ_trơ - 
+- Predicate: trơ_trơ - ArgM-LOC: Trên mặt_đất - Arg0: đồn_bót - ArgM-MOD: phơi - 
+
+( S ( VP-SUB ( VP ( R Chỉ ) ( V-H có ) ( NP-DOB ( N-H mồ_hôi ) ) ) ( C mà ) ( VP ( R không ) ( V-H có ) ( NP-DOB ( N-H vốn ) ( VP-PRP ( V-H đổ ) ( V xuống ) ) ) ) ) ( C thì ) ( AP-PRD ( R cũng ) ( A-H bằng_không ) ) )
+- Predicate: có - ArgM-EXT: Chỉ - Arg1: mồ_hôi - ArgM-DIS: mà - ArgM-DIS: thì - ArgM-TMP: cũng bằng_không - 
+- Predicate: có - ArgM-DIS: mà - ArgM-NEG: không - Arg1: vốn đổ xuống - ArgM-DIS: thì - ArgM-TMP: cũng bằng_không - 
+- Predicate: đổ - ArgM-DIS: mà - ArgM-NEG: không - ArgM-MOD: có - ArgM-MOD: xuống - ArgM-DIS: thì - ArgM-TMP: cũng bằng_không - 
+- Predicate: bằng_không - Arg0: Chỉ có mồ_hôi mà không có vốn đổ xuống - ArgM-DIS: thì - ArgM-TMP: cũng - 
+
+( S ( AP-ADV ( A-H Túng ) ( R quá ) ) ( NP-SUB *E* ) ( VP ( V-H rủ ) ( N nhau ) ( VP-PRP ( V-H đi ) ( V buôn_lậu ) ) ) )
+- Predicate: rủ - ArgM-ADV: Túng quá - Arg0: *E* - ArgM-PRP: đi buôn_lậu - 
+- Predicate: đi - ArgM-ADV: Túng quá - Arg0: *E* - 
+- Predicate: Túng - ArgM-EXT: quá - Arg0: *E* - 
+
+( S ( NP-SUB ( N-H Ruộng ) ) ( VP ( V-H để ) ( A hoang ) ) )
+- Predicate: để - Arg0: Ruộng - ArgM-MNR: hoang - 
+
+( S ( NP-SUB ( N-H Nghề ) ( V đan_lát ) ) ( VP ( V-H thoi_thóp ) ) )
+- Predicate: thoi_thóp - Arg0: Nghề đan_lát - 
+
+( S ( C Nhưng ) ( PP-TMP ( E-H từ ) ( NP ( N-H năm ) ( M 1990 ) ) ) ( NP-SUB *E* ) ( VP ( V-H bắt_đầu ) ( V có ) ( NP-DOB ( N-H chuyện ) ( VP ( V-H cho ) ( NP-DOB ( N-H dân ) ( VP ( V-H vay ) ( N vốn ) ) ) ) ) ) )
+- Predicate: bắt_đầu - ArgM-DIS: Nhưng - ArgM-TMP: từ năm 1990 - Arg0: *E* - Arg1: chuyện cho dân vay vốn - 
+- Predicate: cho - ArgM-DIS: Nhưng - ArgM-TMP: từ năm 1990 - Arg0: *E* - ArgM-MOD: bắt_đầu - Arg1: dân vay vốn - 
+- Predicate: vay - ArgM-TMP: từ năm 1990 - Arg0: *E* - ArgM-MOD: cho - 
+
+( S ( NP-SUB ( N-H Xã ) ) ( VP ( VP ( V-H đứng ) ( R ra ) ( VP ( V-H bảo_lãnh ) ) ) ( VP ( V-H vận_động ) ( NP-DOB ( N-H dân ) ( VP ( V-H trở_về ) ( VP-PRP ( V-H cải_tạo ) ( V-H khai_hoang ) ) ) ) ) ) )
+- Predicate: đứng - Arg0: Xã - ArgM-TMP: ra - 
+- Predicate: vận_động - Arg0: Xã - Arg1: dân trở_về cải_tạo khai_hoang - 
+- Predicate: bảo_lãnh - Arg0: Xã - ArgM-MOD: đứng - 
+- Predicate: trở_về - Arg0: Xã - ArgM-PRP: cải_tạo khai_hoang - 
+- Predicate: cải_tạo - Arg0: Xã - ArgM-MOD: trở_về - 
+- Predicate: khai_hoang - Arg0: Xã - ArgM-MOD: trở_về - ArgM-MOD: cải_tạo - 
+
+( S ( S ( NP-SUB ( N-H Đất ) ) ( AP-PRD ( A-H nghèo ) ) ) ( S ( NP-SUB *E* ) ( VP ( V-H vận_động ) ( NP-DOB ( N-H dân ) ( VP ( V-H trồng ) ( NP-DOB ( N-H tre ) ( N-H trúc ) ) ) ( VP ( V-H hồi_sinh ) ( NP-DOB ( N-H nghề ) ( VP ( V-H đan ) ( NP ( N-H mây ) ( N-H tre ) ( N-H lá ) ) ) ) ) ) ) ) )
+- Predicate: vận_động - Arg0: *E* - Arg1: dân trồng tre trúc hồi_sinh nghề đan mây tre lá - 
+- Predicate: trồng - Arg0: *E* - ArgM-MOD: vận_động - Arg1: tre trúc - 
+- Predicate: hồi_sinh - Arg0: *E* - Arg1: nghề đan mây tre lá - 
+- Predicate: đan - Arg0: *E* - Arg1: mây tre lá - 
+- Predicate: nghèo - Arg0: Đất - 
+
+( S ( S ( NP-SUB ( N-H Đường_đất ) ) ( AP-PRD ( A-H nhỏ ) ) ) ( S ( NP-SUB *E* ) ( VP ( V-H vận_động ) ( NP-DOB ( N-H dân ) ( VP ( V-H góp ) ( NP-DOB ( N-H công ) ) ) ( VP ( V-H góp ) ( NP-DOB ( N-H của ) ) ) ( VP-PRP ( V-H đắp ) ( NP-DOB ( N-H đường ) ( N bêtông ) ) ) ) ) ) )
+- Predicate: vận_động - Arg0: *E* - Arg1: dân góp công góp của đắp đường bêtông - 
+- Predicate: góp - Arg0: *E* - Arg1: công - ArgM-PRP: đắp đường bêtông - 
+- Predicate: góp - Arg0: *E* - Arg1: của - ArgM-PRP: đắp đường bêtông - 
+- Predicate: đắp - Arg0: *E* - Arg1: đường bêtông - 
+- Predicate: nhỏ - Arg0: Đường_đất - 
+
+( S ( NP-TPC ( N-H Bom ) ( N-H mìn ) ( PP-LOC ( E-H trong ) ( NP ( N-H lòng ) ( N đất ) ) ) ) ( NP-SUB *E* ) ( VP ( V-H vận_động ) ( NP-DOB ( N-H dân ) ( VP ( V-H tháo_gỡ ) ) ) ) )
+- Predicate: vận_động - ArgM-ADV: Bom mìn trong lòng đất - Arg0: *E* - Arg1: dân tháo_gỡ - 
+- Predicate: tháo_gỡ - ArgM-ADV: Bom mìn trong lòng đất - Arg0: *E* - 
+
+( S ( PP ( E-H Trong ) ( NP ( Nc-H cái ) ( X thay_da_đổi_thịt ) ( PP ( E-H của ) ( NP ( Np-H Thái_Mỹ ) ) ) ) ) ( NP-SUB ( A nhiều ) ( N-H người ) ) ( VP ( V-H nhắc ) ( PP ( E-H đến ) ( NP ( N-H tổ ) ( N nhân_dân ) ) ) ) )
+- Predicate: nhắc - ArgM-LOC: Trong cái thay_da_đổi_thịt của Thái_Mỹ - Arg0: nhiều người - Arg1: đến tổ nhân_dân - 
+
+( S ( NP-SUB ( P-H Đó ) ) ( VP ( V-H là ) ( NP ( N-H tổ ) ( VP ( V-H có ) ( NP ( NP ( N-H đảng_viên ) ( CC và ) ( N-H thành_viên ) ( NP ( L các ) ( N-H hội_đoàn ) ) ) ( C như ) ( NP ( L những ) ( N-H mạch_máu ) ( VP ( V-H chảy ) ( R vào ) ( NP-LOC ( P từng ) ( N-H tế_bào ) ) ) ) ) ) ) ) )
+- Predicate: là - Arg0: Đó - Arg1: tổ có đảng_viên và thành_viên các hội_đoàn như những mạch_máu chảy vào từng tế_bào - 
+- Predicate: có - Arg0: Đó - ArgM-MOD: là - Arg1: đảng_viên và thành_viên các hội_đoàn như những mạch_máu chảy vào từng tế_bào - 
+- Predicate: chảy - Arg0: Đó - ArgM-MOD: là - ArgM-MOD: có - Arg1: đảng_viên và thành_viên các hội_đoàn - ArgM-TMP: vào - ArgM-LOC: từng tế_bào - 
+
+( S ( NP-SUB ( P-H Tôi ) ) ( VP ( V-H nhớ ) ( NP-DOB ( N-H lời ) ( SBAR ( S ( NP-SUB ( Nc-H anh ) ( NP ( N-H chủ_tịch ) ( N xã ) ) ( NP ( Np-H Bùi_Văn_Luyến ) ) ) ( VP ( V-H nhắc ) ( R đi ) ( V-H nhắc ) ( R lại ) ( SBAR ( S ( R Coi_bộ ) ( NP-SUB *E* ) ( AP-PRD ( AP ( A-H nhỏ ) ) ( C nhưng ) ( AP ( A-H quan_trọng ) ( T lắm ) ) ) ) ) ) ) ) ) ) )
+- Predicate: nhớ - Arg0: Tôi - Arg1: lời anh chủ_tịch xã Bùi_Văn_Luyến nhắc đi nhắc lại Coi_bộ *E* nhỏ nhưng quan_trọng lắm - 
+- Predicate: nhắc - Arg0: anh chủ_tịch xã Bùi_Văn_Luyến - ArgM-TMP: đi - ArgM-TMP: lại - 
+- Predicate: nhắc - Arg0: anh chủ_tịch xã Bùi_Văn_Luyến - ArgM-TMP: đi - ArgM-TMP: lại - 
+- Predicate: nhỏ - ArgM-Partice: Coi_bộ - Arg0: *E* - ArgM-DIS: nhưng - 
+- Predicate: quan_trọng - ArgM-TMP: Coi_bộ - Arg0: *E* - ArgM-MNR: nhỏ - ArgM-DIS: nhưng - ArgM-EXT: lắm - 
+
+( S ( S ( NP-STMP ( N-H Hiện_nay ) ) ( NP-SUB ( N-H xã ) ) ( VP ( V-H có ) ( NP-DOB ( M 68 ) ( N-H tổ ) ( N nhân_dân ) ) ) ) ( S ( NP-SUB ( M mỗi ) ( N-H tổ ) ) ( VP ( V-H phụ_trách ) ( NP-DOB ( M 40 ) ( N-H gia_đình ) ) ) ) )
+- Predicate: có - Arg0: xã - Arg1: 68 tổ nhân_dân - 
+- Predicate: phụ_trách - Arg0: mỗi tổ - Arg1: 40 gia_đình - 
+
+( S ( S ( NP-SUB ( N-H Chủ_trương ) ) ( AP-PRD ( A-H tốt ) ) ) ( C nhưng ) ( S ( SBAR-PRP ( S-CND ( NP-SUB ( N-H dân ) ) ( VP ( VP ( R không ) ( V-H hiểu ) ) ( VP ( R không ) ( V-H hưởng_ứng ) ) ) ) ) ( C thì ) ( S ( NP-SUB *E* ) ( VP ( R cũng ) ( V-H chịu_thua ) ) ) ) )
+- Predicate: chịu_thua - Arg0: *E* - ArgM-TMP: cũng - 
+- Predicate: hiểu - Arg0: dân - ArgM-NEG: không - 
+- Predicate: hưởng_ứng - Arg0: dân - ArgM-NEG: không - 
+- Predicate: tốt - Arg0: Chủ_trương - 
+
+( S ( C Nên ) ( NP-MNR ( N-H trước_nhất ) ) ( NP-SUB ( Nc-H người ) ( N đảng_viên ) ) ( VP ( V-H phải ) ( VP ( V-H làm_gương ) ) ) )
+- Predicate: phải - ArgM-DIS: Nên - Arg1: trước_nhất - Arg0: người đảng_viên - 
+- Predicate: làm_gương - ArgM-DIS: Nên - ArgM-ADV: trước_nhất - Arg0: người đảng_viên - ArgM-MOD: phải - 
+
+( S ( NP-SUB *E* ) ( VP ( VP ( V-H Làm ) ( SBAR-PRP ( E-H cho ) ( S ( NP-SUB ( N-H dân ) ) ( VP ( V-H thấy ) ) ) ) ) ( CC và ) ( VP ( V-H nói ) ( SBAR-PRP ( E-H cho ) ( S ( NP-SUB ( N-H dân ) ) ( VP ( V-H hiểu ) ) ) ) ) ) )
+- Predicate: Làm - Arg0: *E* - ArgM-PRP: cho dân thấy - 
+- Predicate: nói - Arg0: *E* - ArgM-PRP: cho dân hiểu - 
+- Predicate: thấy - Arg0: dân - 
+- Predicate: hiểu - Arg0: dân - 
+
+( S ( PP ( T Riêng ) ( E-H về ) ( VP ( V-H xuất_khẩu ) ( NP-DOB ( N-H lao_động ) ) ) ) ( NP-SUB ( Nc-H anh ) ( Np Luyến ) ) ( VP ( V-H có ) ( NP-DOB ( N-H cách ) ( V nghĩ ) ( AP ( A-H riêng ) ) ( SBAR ( S ( NP-SUB ( N-H Du_học_sinh ) ) ( VP ( V-H đi ) ( NP-LOC ( N-H nước_ngoài ) ) ( PP-PRP ( E-H để ) ( VP ( V-H mở_mang ) ( NP-DOB ( N-H kiến_thức ) ) ) ) ) ) ) ) ) )
+- Predicate: có - ArgM-ADV: Riêng về xuất_khẩu lao_động - Arg0: anh Luyến - Arg1: cách nghĩ riêng Du_học_sinh đi nước_ngoài để mở_mang kiến_thức - 
+- Predicate: xuất_khẩu - Arg1: lao_động - Arg0: anh Luyến - 
+- Predicate: đi - Arg0: Du_học_sinh - Arg1: nước_ngoài - ArgM-PRP: để mở_mang kiến_thức - 
+- Predicate: mở_mang - Arg0: Du_học_sinh - ArgM-MOD: đi - ArgM-LOC: nước_ngoài - Arg1: kiến_thức - 
+- Predicate: riêng - Arg1: Riêng về xuất_khẩu lao_động - Arg0: anh Luyến - ArgM-MOD: có - ArgM-MOD: nghĩ - 
+
+( S ( PP-TMP ( E-H Sau ) ( NP ( M ba ) ( N-H năm ) ( VP ( V-H làm_việc ) ( PP-LOC ( E-H ở ) ( NP ( N-H nước_ngoài ) ) ) ) ) ) ( NP-ADV ( N-H bên ) ( N cạnh ) ( NP ( N-H việc ) ( V tạo ) ( N vốn ) ( VP-PRP ( V-H giúp ) ( NP-DOB ( N-H gia_đình ) ( VP ( V-H thoát ) ( A nghèo ) ) ) ) ) ) ( NP-SUB ( P-H họ ) ) ( VP ( R còn ) ( V-H tiếp_cận ) ( NP-DOB ( M một ) ( N-H môi_trường ) ( V làm_việc ) ( NP ( N-H công_nghiệp ) ) ) ) )
+- Predicate: tiếp_cận - ArgM-TMP: Sau ba năm làm_việc ở nước_ngoài - ArgM-ADV: bên cạnh việc tạo vốn giúp gia_đình thoát nghèo - Arg0: họ - ArgM-TMP: còn - Arg1: một môi_trường làm_việc công_nghiệp - 
+- Predicate: làm_việc - ArgM-LOC: ở nước_ngoài - ArgM-ADV: bên cạnh việc tạo vốn giúp gia_đình thoát nghèo - Arg0: họ - 
+- Predicate: giúp - ArgM-TMP: Sau ba năm làm_việc ở nước_ngoài - Arg1: gia_đình thoát nghèo - Arg0: họ - 
+- Predicate: thoát - ArgM-TMP: Sau ba năm làm_việc ở nước_ngoài - ArgM-MOD: giúp - ArgM-MNR: nghèo - Arg0: họ - 
+
+( S ( PP-TMP ( E-H Đến ) ( NP ( P-H nay ) ) ) ( NP-SUB ( N-H xã ) ) ( VP ( V-H có ) ( NP-DOB ( M 672 ) ( N-H người ) ( VP ( V-H đi ) ( VP ( V-H làm_việc ) ( PP-LOC ( E-H ở ) ( NP ( N-H nước_ngoài ) ) ) ) ) ) ) )
+- Predicate: có - ArgM-TMP: Đến nay - Arg0: xã - Arg1: 672 người đi làm_việc ở nước_ngoài - 
+- Predicate: đi - ArgM-TMP: Đến nay - Arg0: xã - ArgM-MOD: có - 
+- Predicate: làm_việc - ArgM-TMP: Đến nay - Arg0: xã - ArgM-MOD: có - ArgM-MOD: đi - ArgM-LOC: ở nước_ngoài - 
+
+( S ( NP-TMP ( N-H Khi ) ( VP ( V-H trở_về ) ) ) ( XP-SUB ( X-H hầu_hết ) ) ( VP ( V-H tiếp_tục ) ( VP ( V-H làm_việc ) ( AP-MNR ( A-H tốt ) ) ) ) )
+- Predicate: tiếp_tục - ArgM-TMP: Khi trở_về - Arg0: hầu_hết - 
+- Predicate: trở_về - Arg0: hầu_hết - 
+- Predicate: làm_việc - ArgM-TMP: Khi trở_về - Arg0: hầu_hết - ArgM-TMP: tiếp_tục - ArgM-MNR: tốt - 
+- Predicate: tốt - ArgM-TMP: Khi trở_về - Arg0: hầu_hết - ArgM-TMP: tiếp_tục - 
+
+( S ( NP-SUB ( A Nhiều ) ( N-H người ) ( PP ( E-H từ ) ( AP ( A-H nghèo_khó ) ( R nhất ) ( NP ( N-H xã ) ) ) ) ) ( VP ( R đã ) ( V-H có ) ( NP-DOB ( N-H vốn ) ( VP-PRP ( VP ( V-H mở ) ( NP-DOB ( N-H cơ_sở ) ) ) ( VP ( V-H lập ) ( NP-DOB ( N-H trang_trại ) ) ) ( VP ( V-H tạo ) ( NP-DOB ( N-H công_ăn_việc_làm ) ( PP-IOB ( E-H cho ) ( NP ( A nhiều ) ( N-H lao_động ) ) ) ) ) ) ) ) )
+- Predicate: có - Arg0: Nhiều người từ nghèo_khó nhất xã - ArgM-TMP: đã - Arg1: vốn mở cơ_sở lập trang_trại tạo công_ăn_việc_làm cho nhiều lao_động - 
+- Predicate: mở - Arg0: Nhiều người từ nghèo_khó nhất xã - ArgM-TMP: đã - ArgM-MOD: có - Arg1: cơ_sở - 
+- Predicate: lập - Arg0: Nhiều người từ nghèo_khó nhất xã - ArgM-TMP: đã - ArgM-MOD: có - Arg1: trang_trại - 
+- Predicate: tạo - Arg0: Nhiều người từ nghèo_khó nhất xã - ArgM-TMP: đã - Arg1: công_ăn_việc_làm cho nhiều lao_động - 
+- Predicate: nghèo_khó - ArgM-MNR: Nhiều - ArgM-EXT: nhất - Arg1: xã - ArgM-TMP: đã có vốn mở cơ_sở lập trang_trại tạo công_ăn_việc_làm cho nhiều lao_động - 
+
+( S ( VP-SUB ( V-H Có ) ( NP-DOB ( N-H em ) ( VP ( V-H trở_về ) ) ) ) ( VP ( R còn ) ( V-H quyết_tâm ) ( VP ( V-H dùng ) ( NP-DOB ( N-H tiền ) ( V dành_dụm ) ( VP-PRP ( V-H tiếp_tục ) ( VP ( VP ( V-H học ) ( NP-DOB ( N-H văn_hóa ) ) ) ( VP ( V-H vào ) ( NP-DOB ( N-H đại_học ) ) ) ) ) ) ) ) )
+- Predicate: Có - Arg1: em trở_về - 
+- Predicate: quyết_tâm - Arg0: Có em trở_về - ArgM-TMP: còn - 
+- Predicate: dùng - Arg0: Có em trở_về - ArgM-TMP: còn - ArgM-MOD: quyết_tâm - Arg1: tiền dành_dụm tiếp_tục học văn_hóa vào đại_học - 
+- Predicate: trở_về - ArgM-MOD: Có - 
+- Predicate: tiếp_tục - Arg0: Có em trở_về - ArgM-TMP: còn - ArgM-MOD: quyết_tâm - ArgM-MOD: dùng - ArgM-MNR: dành_dụm - 
+- Predicate: học - Arg0: Có em trở_về - ArgM-TMP: còn - ArgM-MOD: quyết_tâm - ArgM-MOD: dùng - ArgM-MNR: dành_dụm - ArgM-MOD: tiếp_tục - Arg1: văn_hóa - 
+- Predicate: vào - Arg0: Có em trở_về - ArgM-TMP: còn - ArgM-MOD: quyết_tâm - ArgM-MOD: dùng - ArgM-MNR: dành_dụm - ArgM-TMP: tiếp_tục - Arg1: đại_học - 
+
+( S ( VP ( V-H Qua ) ( NP-TMP ( M 10 ) ( N-H năm ) ( AP ( A-H nhọc_nhằn ) ) ) ) ( PP-ADV ( E-H từ ) ( NP ( M 23% ) ( N-H hộ ) ( A nghèo ) ( NP-TMP ( N-H năm ) ( M 1992 ) ) ) ) ( S ( NP-SUB ( N-H xã ) ) ( VP ( V-H công_bố ) ( VP ( R không ) ( V-H còn ) ( NP-DOB ( N-H hộ ) ( A nghèo ) ) ) ( PP ( E-H theo ) ( NP ( N-H tiêu_chí ) ( NP ( Np TP. ) ) ) ) ) ) ( S ( NP-SUB ( N-H Hình_ảnh ) ( NP ( Nc-H ngôi ) ( N nhà ) ( N lá ) ) ( NP ( N-H vách ) ( N đất ) ) ) ( VP ( R cũng ) ( R chỉ ) ( V-H còn ) ( PP-LOC ( E-H trong ) ( NP ( N-H ký_ức ) ) ) ) ) )
+- Predicate: Qua - ArgM-TMP: 10 năm nhọc_nhằn - ArgM-ADV: từ 23% hộ nghèo năm 1992 - 
+- Predicate: công_bố - Arg0: xã - ArgM-ADV: theo tiêu_chí TP. - 
+- Predicate: còn - Arg0: Hình_ảnh ngôi nhà lá vách đất - ArgM-TMP: cũng - ArgM-EXT: chỉ - ArgM-LOC: trong ký_ức - 
+- Predicate: còn - Arg0: xã - ArgM-NEG: không - Arg1: hộ nghèo - ArgM-ADV: theo tiêu_chí TP. - 
+- Predicate: nhọc_nhằn - ArgM-MOD: Qua - ArgM-ADV: từ 23% hộ nghèo năm 1992 - 
+
+( S ( NP-SUB ( N-H Xã ) ) ( VP ( R cũng ) ( V-H công_bố ) ( VP ( V-H phổ_cập ) ( NP-DOB ( N-H giáo_dục ) ( Np THCS ) ) ) ) )
+- Predicate: công_bố - Arg0: Xã - ArgM-TMP: cũng - 
+- Predicate: phổ_cập - Arg0: Xã - ArgM-TMP: cũng - Arg1: giáo_dục THCS - 
+
+( S ( VP-ADV ( V-H Dự_kiến ) ( PP-TMP ( PP ( E-H từ ) ( NP ( P-H nay ) ) ) ( PP ( E-H đến ) ( NP ( N-H năm ) ( M 2007 ) ) ) ) ) ( NP-SUB *E* ) ( VP ( R sẽ ) ( V-H hoàn_thành ) ( VP ( V-H phổ_cập ) ( NP-DOB ( Np THPT ) ) ) ) )
+- Predicate: Dự_kiến - ArgM-TMP: từ nay đến năm 2007 - Arg0: *E* - 
+- Predicate: hoàn_thành - ArgM-ADV: Dự_kiến từ nay đến năm 2007 - Arg0: *E* - ArgM-TMP: sẽ - 
+- Predicate: phổ_cập - ArgM-ADV: Dự_kiến từ nay đến năm 2007 - Arg0: *E* - ArgM-TMP: sẽ - ArgM-MOD: hoàn_thành - Arg1: THPT - 
+
+( S ( AP-ADV ( R Không ) ( A-H phải ) ( SBAR ( S ( NP-SUB ( N-H phép ) ( A thần_kỳ ) ) ( VP ( V-H biến ) ( NP-DOB ( N-H quê_hương ) ( PP ( E-H từ ) ( NP ( N-H chỗ ) ( A cay_cực ) ( R nhất ) ) ) ( VP ( A vinh_dự ) ( V-H nhận ) ( NP-DOB ( N-H danh_hiệu ) ( N tập_thể ) ( NP ( N-H Anh_hùng ) ( N lao_động ) ( NP-TMP ( N-H thời_kỳ ) ( N đổi_mới ) ) ) ) ( PP-TMP ( E-H sau ) ( NP ( M 15 ) ( N-H năm ) ( V đổi_mới ) ) ) ) ) ) ) ) ) )
+- Predicate: biến - Arg0: phép thần_kỳ - Arg1: quê_hương từ chỗ cay_cực nhất vinh_dự nhận danh_hiệu tập_thể Anh_hùng lao_động thời_kỳ đổi_mới sau 15 năm đổi_mới - 
+- Predicate: nhận - Arg0: phép thần_kỳ - ArgM-MOD: biến - ArgM-ADV: từ chỗ cay_cực nhất - ArgM-MNR: vinh_dự - Arg1: danh_hiệu tập_thể Anh_hùng lao_động thời_kỳ đổi_mới - ArgM-TMP: sau 15 năm đổi_mới - 
+- Predicate: phải - ArgM-NEG: Không - 
+
+( S ( NP-SUB ( P-H Tôi ) ) ( VP ( R chợt ) ( V-H hiểu ) ( SBAR ( S ( S ( NP-SUB ( Nc-H người ) ( N nông_dân ) ( NP-LOC ( N-H nơi ) ( P đâu ) ) ) ( AP-PRD ( R cũng ) ( A-H chân_chất ) ( A-H cần_cù ) ) ) ( C nhưng ) ( S ( NP-SUB ( P-H họ ) ) ( AP-PRD ( A-H giàu_có ) ( C hay ) ( R không ) ( VP ( R còn ) ( V-H nhờ ) ( NP-DOB ( N-H cách ) ( V làm ) ) ) ) ) ) ) ) )
+- Predicate: hiểu - Arg0: Tôi - ArgM-TMP: chợt - 
+- Predicate: nhờ - Arg0: họ - ArgM-MNR: giàu_có - ArgM-NEG: không - ArgM-TMP: còn - Arg1: cách làm - 
+- Predicate: chân_chất - Arg0: người nông_dân nơi đâu - ArgM-TMP: cũng - ArgM-MNR: cần_cù - 
+- Predicate: cần_cù - Arg0: người nông_dân nơi đâu - ArgM-TMP: cũng - ArgM-MNR: chân_chất - 
+- Predicate: giàu_có - Arg0: họ - ArgM-NEG: không - 
+
+( S ( NP-SUB ( M Một ) ( N-H tập_thể ) ( AP ( A-H vững_mạnh ) ) ) ( VP ( R còn ) ( V-H nhờ ) ( NP-DOB ( N-H đầu_tàu ) ) ) )
+- Predicate: nhờ - Arg0: Một tập_thể vững_mạnh - ArgM-TMP: còn - Arg1: đầu_tàu - 
+- Predicate: vững_mạnh - 
+
+( S ( S ( NP-SUB ( P-H Ai ) ) ( VP ( V-H trồng ) ( NP-DOB ( N-H lúa ) ) ) ) ( S ( NP-SUB ( N-H xã ) ) ( VP ( V-H mời ) ( NP-DOB ( L các ) ( N-H cán_bộ ) ( VP ( V-H về ) ( V tập_huấn ) ( PP ( E-H cho ) ( VP ( V-H trồng ) ( NP-DOB ( N-H lúa ) ) ) ) ) ) ) ) )
+- Predicate: trồng - Arg0: Ai - Arg1: lúa - 
+- Predicate: mời - Arg0: xã - Arg1: các cán_bộ về tập_huấn cho trồng lúa - 
+- Predicate: về - Arg0: xã - ArgM-ADV: tập_huấn - Arg2: cho trồng lúa - 
+- Predicate: trồng - Arg0: xã - ArgM-MOD: mời - ArgM-MOD: về - ArgM-ADV: tập_huấn - Arg1: lúa - 
+
+( S ( S-SUB ( NP-SUB ( P-H Ai ) ) ( VP ( VP ( V-H nuôi ) ( NP-DOB ( N-H cá ) ) ) ( VP ( V-H nuôi ) ( NP-DOB ( N-H bò ) ) ) ) ) ( C thì ) ( VP ( V-H được ) ( VP ( V-H tập_huấn ) ( PP ( E-H về ) ( NP ( N-H chăn_nuôi ) ) ) ) ) )
+- Predicate: được - Arg0: Ai nuôi cá nuôi bò - 
+- Predicate: tập_huấn - Arg0: Ai nuôi cá nuôi bò - ArgM-DIS: thì - ArgM-MOD: được - ArgM-LOC: về chăn_nuôi - 
+- Predicate: nuôi - Arg0: Ai - Arg1: cá - 
+- Predicate: nuôi - Arg0: Ai - Arg1: bò - 
+
+( S ( S-SUB ( NP-SUB ( P-H Ai ) ) ( VP ( V-H muốn ) ( VP ( V-H giữ ) ( NP-DOB ( N-H nghề ) ( N truyền_thống ) ) ) ) ) ( VP ( V-H được ) ( VP ( V-H tạo ) ( NP-DOB ( N-H điều_kiện ) ( VP-PRP ( V-H vay ) ( N vốn ) ) ) ) ) )
+- Predicate: được - Arg0: Ai muốn giữ nghề truyền_thống - 
+- Predicate: muốn - Arg0: Ai - 
+- Predicate: tạo - Arg0: Ai muốn giữ nghề truyền_thống - ArgM-MOD: được - Arg1: điều_kiện vay vốn - 
+- Predicate: giữ - Arg0: Ai - ArgM-MOD: muốn - Arg1: nghề truyền_thống - 
+- Predicate: vay - Arg0: Ai muốn giữ nghề truyền_thống - ArgM-MOD: được - 
+
+( S ( S ( NP-SUB ( P-H Ai ) ) ( VP ( V-H muốn ) ( VP ( V-H lao_động ) ( PP-LOC ( E-H ở ) ( NP ( N-H nước_ngoài ) ) ) ) ) ) ( S ( NP-SUB ( N-H xã ) ) ( VP ( V-H làm ) ( NP-DOB ( N-H cầu_nối ) ) ) ) ( S-SPL ( NP ( NP ( M 500 ) ( N-H liệt_sĩ ) ) ( NP ( M 750 ) ( N-H hộ ) ( N gia_đình ) ( N chính_sách ) ) ( NP ( M 176 ) ( N-H thương_binh ) ) ) ) )
+- Predicate: muốn - Arg0: Ai - Arg1: lao_động ở nước_ngoài - 
+- Predicate: làm - Arg0: xã - Arg1: cầu_nối - 
+- Predicate: lao_động - Arg0: Ai - ArgM-MOD: muốn - ArgM-LOC: ở nước_ngoài - 
+
+( S ( NP-SUB ( L Những ) ( N-H con_số ) ( VP ( V-H đong ) ( A đầy ) ( NP-DOB ( N-H nước_mắt ) ) ) ) ( VP ( V-H ngỡ ) ( VP ( R chỉ ) ( V-H để ) ( R lại ) ( NP-DOB ( M một ) ( N-H vùng_đất ) ( AP ( A-H ngặt_nghèo ) ( A-H đau_thương ) ) ) ) ) )
+- Predicate: ngỡ - Arg0: Những con_số đong đầy nước_mắt - Arg1: chỉ để lại một vùng_đất ngặt_nghèo đau_thương - 
+- Predicate: đong - ArgM-MNR: đầy - Arg1: nước_mắt - 
+- Predicate: để - Arg0: Những con_số đong đầy nước_mắt - ArgM-EXT: chỉ - ArgM-TMP: lại - Arg1: một vùng_đất ngặt_nghèo đau_thương - 
+- Predicate: ngặt_nghèo - Arg0: Những con_số đong đầy nước_mắt - ArgM-EXT: chỉ - ArgM-MOD: để - ArgM-TMP: lại - ArgM-MNR: đau_thương - 
+- Predicate: đau_thương - Arg0: Những con_số đong đầy nước_mắt - ArgM-TMP: chỉ - ArgM-MOD: để - ArgM-TMP: lại - ArgM-MNR: ngặt_nghèo - 
+
+( S ( VP-ADV ( V-H Gặp ) ( NP-DOB ( L những ) ( Nc-H đứa ) ( N con ) ( PP ( E-H của ) ( NP ( N-H quê_hương ) ( P này ) ) ) ) ) ( NP-SUB ( P-H tôi ) ) ( VP ( V-H bị ) ( AP ( A-H bất_ngờ ) ( PP-PRP ( E-H bởi ) ( NP ( N-H sức_sống ) ( A mãnh_liệt ) ) ) ) ) )
+- Predicate: Gặp - Arg1: những đứa con của quê_hương này - Arg0: tôi - 
+- Predicate: bị - ArgM-ADV: Gặp những đứa con của quê_hương này - Arg0: tôi - ArgM-TMP: bất_ngờ bởi sức_sống mãnh_liệt - 
+- Predicate: bất_ngờ - ArgM-ADV: Gặp những đứa con của quê_hương này - Arg0: tôi - ArgM-MOD: bị - ArgM-CAU: bởi sức_sống mãnh_liệt - 
+
+( S ( VP-ADV ( V-H Trở_về ) ( AP ( A-H đời_thường ) ) ) ( NP-SUB ( M đôi ) ( N-H bạn ) ( N cựu_chiến_binh ) ( NP ( Np-H Phan_Văn_Đu ) ( CC và ) ( Np-H Phạm_Văn_Thanh ) ) ) ( VP ( V-H ngồi ) ( NP-LOC ( N-H bên ) ( NP ( N-H ấm ) ( N trà ) ) ) ) )
+- Predicate: Trở_về - ArgM-MNR: đời_thường - Arg0: đôi bạn cựu_chiến_binh Phan_Văn_Đu và Phạm_Văn_Thanh - 
+- Predicate: ngồi - ArgM-ADV: Trở_về đời_thường - Arg0: đôi bạn cựu_chiến_binh Phan_Văn_Đu và Phạm_Văn_Thanh - ArgM-LOC: bên ấm trà - 
+- Predicate: đời_thường - ArgM-MOD: Trở_về - Arg0: đôi bạn cựu_chiến_binh Phan_Văn_Đu và Phạm_Văn_Thanh - 
+
+( S ( NP-SUB ( M Hai ) ( N-H lão_nông ) ( NP ( M một ) ( N-H cánh_tay ) ( AP ( R còn ) ( A-H nguyên_vẹn ) ) ) ) ( VP ( R đã ) ( V-H dựng ) ( V lên ) ( NP-DOB ( M hai ) ( N-H gia_đình ) ( NP ( N-H gương_mẫu ) ) ) ) )
+- Predicate: dựng - Arg0: Hai lão_nông một cánh_tay còn nguyên_vẹn - ArgM-TMP: đã - ArgM-MNR: lên - Arg1: hai gia_đình gương_mẫu - 
+- Predicate: nguyên_vẹn - ArgM-TMP: còn - ArgM-TMP: đã dựng lên hai gia_đình gương_mẫu - 
+
+( S ( NP-SUB ( P-H Tôi ) ) ( VP ( V-H nghe ) ( NP-DOB ( N-H câu_chuyện ) ( SBAR ( S ( NP-SUB ( Nc-H anh ) ( Np Thanh ) ) ( VP ( V-H cho ) ( NP-DOB ( Nc-H anh ) ( Np Đu ) ) ( VP ( V-H mượn ) ( NP-DOB ( Nc-H chú ) ( N heo ) ( A con ) ) ) ) ) ) ) ) )
+- Predicate: nghe - Arg0: Tôi - Arg1: câu_chuyện anh Thanh cho anh Đu mượn chú heo con - 
+- Predicate: cho - Arg0: anh Thanh - Arg1: anh Đu - 
+- Predicate: mượn - Arg0: anh Thanh - ArgM-MOD: cho - Arg1: chú heo con - 
+
+( S ( NP-SUB ( Nc-H Anh ) ( Np Đu ) ) ( VP ( VP ( V-H nuôi ) ( PP ( E-H đến ) ( NP-TMP ( N-H khi ) ( SBAR ( S ( NP-SUB ( N-H heo ) ) ( VP ( V-H lớn ) ( VP ( V-H bán ) ( N thịt ) ) ) ) ) ) ) ) ( C thì ) ( VP ( R mới ) ( V-H trả ) ( NP-DOB ( N-H heo ) ( A con ) ) ( R lại ) ( PP-IOB ( E-H cho ) ( NP ( Nc-H anh ) ( Np Thanh ) ) ) ) ( VP ( R không ) ( V-H tính ) ( NP-DOB ( N-H lời_lãi ) ) ) ) )
+- Predicate: nuôi - Arg0: Anh Đu - ArgM-ADV: đến khi heo lớn bán thịt - ArgM-DIS: thì - ArgM-TMP: mới trả heo con lại cho anh Thanh - 
+- Predicate: trả - Arg0: Anh Đu - ArgM-TMP: mới - Arg1: heo con - ArgM-TMP: lại - Arg2: cho anh Thanh - 
+- Predicate: tính - Arg0: Anh Đu - ArgM-NEG: không - Arg1: lời_lãi - 
+- Predicate: lớn - Arg0: heo - 
+- Predicate: bán - Arg0: heo - ArgM-MOD: lớn - 
+
+( S ( NP-SUB ( Nc-H Anh ) ( Np Đu ) ) ( C thì ) ( VP ( A vui_mừng ) ( V-H thông_báo ) ( SBAR ( S ( NP-SUB ( Nc-H con ) ( N heo ) ( A con ) ( VP ( V-H đi ) ( V mượn ) ) ( P ấy ) ) ( NP-TMP ( N-H giờ ) ) ( VP ( R đã ) ( V-H thành ) ( NP-DOB ( N-H mẹ ) ( PP ( E-H của ) ( NP ( M một ) ( Nc-H bầy ) ( N con ) ) ) ) ) ) ) ) )
+- Predicate: thông_báo - Arg0: Anh Đu - ArgM-MNR: vui_mừng - 
+- Predicate: thành - Arg0: con heo con đi mượn ấy - ArgM-TMP: giờ - ArgM-TMP: đã - Arg1: mẹ của một bầy con - 
+- Predicate: đi - ArgM-MNR: con - ArgM-TMP: giờ - ArgM-TMP: đã thành mẹ của một bầy con - 
+
+( S ( NP-SUB ( L Những ) ( N-H chuyện ) ( A nhỏ_nhặt ) ( C như ) ( VP ( VP ( V-H tặng ) ( N nhau ) ( NP-DOB ( N-H rổ ) ( N khoai ) ) ) ( VP ( V-H cho ) ( VP ( V-H mượn ) ( NP-DOB ( N-H vốn ) ) ) ) ( VP ( V-H góp ) ( N tiền ) ( VP ( V-H tổ_chức ) ( NP-DOB ( N-H tang_ma ) ( N-H giỗ_chạp ) ) ) ) ) ) ( VP ( R đã ) ( V-H trở_thành ) ( NP-DOB ( N-H nếp ) ( X tình_làng_nghĩa_xóm ) ( PP-LOC ( E-H ở ) ( NP ( Np-H Củ_Chi ) ) ) ) ) )
+- Predicate: trở_thành - Arg0: Những chuyện nhỏ_nhặt như tặng nhau rổ khoai cho mượn vốn góp tiền tổ_chức tang_ma giỗ_chạp - ArgM-TMP: đã - Arg1: nếp tình_làng_nghĩa_xóm ở Củ_Chi - 
+- Predicate: tặng - ArgM-MNR: nhỏ_nhặt - Arg1: rổ khoai - ArgM-TMP: đã trở_thành nếp tình_làng_nghĩa_xóm ở Củ_Chi - 
+- Predicate: cho - ArgM-MNR: nhỏ_nhặt - ArgM-TMP: đã trở_thành nếp tình_làng_nghĩa_xóm ở Củ_Chi - 
+- Predicate: góp - ArgM-MNR: nhỏ_nhặt - ArgM-TMP: đã trở_thành nếp tình_làng_nghĩa_xóm ở Củ_Chi - 
+- Predicate: mượn - ArgM-MNR: nhỏ_nhặt - ArgM-MOD: cho - Arg1: vốn - ArgM-TMP: đã trở_thành nếp tình_làng_nghĩa_xóm ở Củ_Chi - 
+- Predicate: tổ_chức - ArgM-MNR: nhỏ_nhặt - Arg1: tang_ma giỗ_chạp - ArgM-TMP: đã trở_thành nếp tình_làng_nghĩa_xóm ở Củ_Chi - 
+
+( S ( NP-SUB ( M Một ) ( N-H điểm ) ( A chung ) ) ( VP ( V-H là ) ( NP ( Nc-H người ) ( N thương_binh ) ( VP ( A ít ) ( V-H chạm ) ( R vào ) ( NP-TMP ( N-H quá_khứ ) ) ) ) ) )
+- Predicate: là - Arg0: Một điểm chung - Arg1: người thương_binh ít chạm vào quá_khứ - 
+- Predicate: chạm - Arg0: Một điểm chung - ArgM-MOD: là - Arg1: thương_binh - ArgM-MNR: ít - ArgM-TMP: vào - ArgM-TMP: quá_khứ - 
+
+( S ( VP-ADV ( V-H Hỏi ) ( PP ( E-H về ) ( NP ( N-H vết_thương ) ) ) ) ( NP-SUB ( P-H cả ) ( M hai ) ) ( VP ( V-H tóm_tắt ) ( SBAR ( S ( NP-SUB ( Nc-H Anh ) ( Np Thanh ) ) ( VP ( V-H bị ) ( VP ( V-H cụt ) ( N tay ) ( PP-TMP ( E-H trong ) ( NP ( N-H đợt ) ( V tổng_tấn_công ) ( NP ( N-H mùa ) ( N xuân ) ( NP ( N-H năm ) ( M 1968 ) ) ) ) ) ) ) ) ) ) )
+- Predicate: Hỏi - ArgM-ADV: về vết_thương - Arg0: cả hai - 
+- Predicate: tóm_tắt - ArgM-ADV: Hỏi về vết_thương - Arg0: cả hai - 
+- Predicate: bị - Arg0: Anh Thanh - 
+- Predicate: cụt - Arg0: Anh Thanh - ArgM-MOD: bị - Arg1: tay - ArgM-TMP: trong đợt tổng_tấn_công mùa xuân năm 1968 - 
+
+( S ( C Còn ) ( NP-SUB ( Nc-H anh ) ( Np Đu ) ) ( C thì ) ( VP ( V-H *E* ) ( SBAR ( S ( NP-TMP ( N-H Ngày ) ( M 30-4-1975 ) ) ( NP-SUB ( P-H tui ) ) ( VP ( V-H còn ) ( A y_nguyên ) ) ) ) ) )
+- Predicate: *E* - ArgM-DIS: Còn - Arg0: anh Đu - ArgM-DIS: thì - 
+- Predicate: còn - ArgM-TMP: Ngày 30-4-1975 - Arg0: tui - ArgM-MNR: y_nguyên - 
+
+( S ( PP-TMP ( E-H Sau ) ( NP ( N-H chiến_tranh ) ) ) ( NP-SUB *E* ) ( VP ( V-H đi ) ( VP ( V-H tháo_gỡ ) ( NP-DOB ( N-H bom ) ( N-H mìn ) ) ) ) )
+- Predicate: đi - ArgM-TMP: Sau chiến_tranh - Arg0: *E* - 
+- Predicate: tháo_gỡ - ArgM-TMP: Sau chiến_tranh - Arg0: *E* - ArgM-MOD: đi - Arg1: bom mìn - 
+
+( S ( S ( NP-SUB *E* ) ( VP ( V-H Tháo_gỡ ) ( PP ( E-H đến ) ( NP ( N-H trái ) ( M 223 ) ) ) ) ) ( C thì ) ( S ( NP-SUB *E* ) ( VP ( V-H bị ) ( VP ( V-H nổ ) ) ) ) )
+- Predicate: Tháo_gỡ - Arg0: *E* - ArgM-ADV: đến trái 223 - 
+- Predicate: bị - Arg0: *E* - 
+- Predicate: nổ - Arg0: *E* - ArgM-MOD: bị - 
+
+( S ( NP-SUB *E* ) ( VP ( V-H Mất ) ( NP-DOB ( NP ( M hai ) ( N-H cánh_tay ) ) ( NP ( M một ) ( N-H mắt ) ) ) ) )
+- Predicate: Mất - Arg0: *E* - Arg1: hai cánh_tay một mắt - 
+
+( S ( NP-SUB ( P-H Mình ) ) ( VP ( R còn ) ( V-H sống ) ) )
+- Predicate: sống - Arg0: Mình - ArgM-TMP: còn - 
+
+( S ( NP-SUB *E* ) ( AP-PRD ( A-H Hên ) ( T thiệt ) ) )
+- Predicate: Hên - Arg0: *E* - 
+
+( S ( I À ) ( C mà ) ( NP-SUB ( N-H chuyện ) ( P đó ) ) ( AP-PRD ( A-H cũ ) ( R hết ) ( R rồi ) ) )
+- Predicate: cũ - Arg0: chuyện đó - ArgM-TMP: rồi - 
+
+( S ( NP-SUB ( N-H Chuyện ) ( A mới ) ) ( VP ( V-H là ) ( SBAR ( S ( PP-LOC ( E-H từ ) ( NP ( N-H chỗ ) ( N đất ) ( SBAR ( S ( NP-SUB ( N-H anh ) ) ( VP ( V-H gửi ) ( R lại ) ( NP-DOB ( M một ) ( N-H phần ) ( N thân_thể ) ) ) ) ) ( P ấy ) ) ) ( NP-SUB *E* ) ( VP ( R đang ) ( V-H xây ) ( NP-DOB ( M một ) ( N-H trụ_sở ) ( NP ( Np UBND ) ( N xã ) ) ( AP ( A-H mới ) ) ) ) ) ) ) )
+- Predicate: là - Arg0: Chuyện mới - 
+- Predicate: xây - ArgM-LOC: từ chỗ đất anh gửi lại một phần thân_thể ấy - Arg0: *E* - ArgM-TMP: đang - Arg1: một trụ_sở UBND xã mới - 
+- Predicate: gửi - Arg0: anh - ArgM-TMP: lại - Arg1: một phần thân_thể - 
+- Predicate: mới - ArgM-LOC: từ chỗ đất anh gửi lại một phần thân_thể ấy - Arg0: *E* - ArgM-TMP: đang - Arg1: UBND xã - 
+
+( S ( NP-SUB ( A Gần ) ( P-H đó ) ) ( VP ( R cũng ) ( R vừa ) ( V-H mọc ) ( R lên ) ( NP-DOB ( M một ) ( N-H nhà_văn_hóa ) ( VP ( V-H trị_giá ) ( NP-DOB ( A khoảng ) ( M 5 ) ( M tỉ ) ( Nu-H đồng ) ) ) ) ) )
+- Predicate: mọc - Arg0: Gần đó - ArgM-TMP: cũng - ArgM-TMP: vừa - ArgM-TMP: lên - Arg1: một nhà_văn_hóa trị_giá khoảng 5 tỉ đồng - 
+- Predicate: trị_giá - Arg0: Gần đó - ArgM-TMP: cũng - ArgM-TMP: vừa - 
+
+( S ( NP-SUB *E* ) ( VP ( R Cũng ) ( V-H qua ) ( R rồi ) ( NP-TMP ( N-H thời ) ( VP ( VP ( V-H thức ) ( A suốt ) ( PP-LOC ( E-H trong ) ( AP ( A-H bưng ) ) ) ) ( VP ( V-H đội ) ( NP-DOB ( N-H mít ) ) ) ( VP ( V-H đội ) ( NP-DOB ( N-H thúng ) ) ) ( VP-PRP ( V-H mua_đi_bán_lại ) ( VP ( V-H nuôi ) ( NP-DOB ( N-H con ) ( VP ( V-H ăn_học ) ) ) ) ) ) ) ) )
+- Predicate: qua - Arg0: *E* - ArgM-TMP: Cũng - ArgM-TMP: rồi - ArgM-TMP: thời thức suốt trong bưng đội mít đội thúng mua_đi_bán_lại nuôi con ăn_học - 
+- Predicate: thức - Arg0: *E* - ArgM-TMP: Cũng - ArgM-MOD: qua - ArgM-TMP: rồi - ArgM-MNR: suốt - ArgM-LOC: trong bưng - ArgM-PRP: mua_đi_bán_lại nuôi con ăn_học - 
+- Predicate: đội - Arg0: *E* - ArgM-TMP: Cũng - ArgM-TMP: rồi - Arg1: mít - ArgM-PRP: mua_đi_bán_lại nuôi con ăn_học - 
+- Predicate: đội - Arg0: *E* - ArgM-TMP: Cũng - ArgM-TMP: rồi - Arg1: thúng - ArgM-PRP: mua_đi_bán_lại nuôi con ăn_học - 
+- Predicate: mua_đi_bán_lại - Arg0: *E* - ArgM-TMP: Cũng - ArgM-MOD: qua - ArgM-TMP: rồi - 
+- Predicate: nuôi - Arg0: *E* - ArgM-TMP: Cũng - ArgM-MOD: qua - ArgM-TMP: rồi - ArgM-MOD: mua_đi_bán_lại - Arg1: con ăn_học - 
+- Predicate: ăn_học - Arg0: *E* - ArgM-TMP: Cũng - ArgM-MOD: qua - ArgM-TMP: rồi - ArgM-MOD: mua_đi_bán_lại - ArgM-MOD: nuôi - 
+- Predicate: bưng - Arg0: *E* - ArgM-TMP: Cũng - ArgM-MOD: qua - ArgM-TMP: rồi - ArgM-MOD: thức - ArgM-MNR: suốt - ArgM-PRP: mua_đi_bán_lại nuôi con ăn_học - 
+
+( S ( NP-TMP ( N-H Hôm_nay ) ) ( NP-SUB ( M ba ) ( Nc-H đứa ) ( N con ) ( N anh ) ) ( VP ( R đã ) ( V-H có ) ( NP-DOB ( N-H việc_làm ) ( A ổn_định ) ) ) )
+- Predicate: có - ArgM-TMP: Hôm_nay - Arg0: ba đứa con anh - ArgM-TMP: đã - Arg1: việc_làm ổn_định - 
+
+( S ( VP-SUB ( V-H Có ) ( SBAR ( S ( NP-SUB ( N-H người ) ) ( VP ( R đã ) ( V-H là ) ( NP ( N-H cô_giáo ) ( VP ( V-H dạy ) ( NP-DOB ( Np THCS ) ) ) ) ) ) ) ) )
+- Predicate: Có - 
+- Predicate: là - Arg0: người - ArgM-TMP: đã - Arg1: cô_giáo dạy THCS - 
+- Predicate: dạy - Arg0: người - ArgM-TMP: đã - ArgM-MOD: là - Arg1: THCS - 
+
+( S ( NP-SUB ( N-H Dân ) ( Np Thái_Mỹ ) ) ( VP ( R cũng ) ( V-H quen ) ( R lắm ) ( NP-DOB ( N-H hình_ảnh ) ( SBAR ( S ( NP-SUB ( Z phó ) ( N-H chủ_tịch ) ( NP ( Np-H Hội ) ( N Cựu_chiến_binh ) ( N xã ) ) ( VP ( V-H kiêm ) ( NP ( N-H tổ_trưởng ) ( NP ( N-H tổ ) ( N nhân_dân ) ) ) ) ( NP ( M một ) ( N-H mắt ) ) ) ( VP ( V-H lái ) ( NP-DOB ( N-H xe_máy ) ( PP-MNR ( E-H bằng ) ( NP ( M hai ) ( N-H cùi_tay ) ) ) ) ) ) ) ) ) )
+- Predicate: quen - Arg0: Dân Thái_Mỹ - ArgM-TMP: cũng - ArgM-EXT: lắm - Arg1: hình_ảnh phó chủ_tịch Hội Cựu_chiến_binh xã kiêm tổ_trưởng tổ nhân_dân một mắt lái xe_máy bằng hai cùi_tay - 
+- Predicate: lái - Arg0: phó chủ_tịch Hội Cựu_chiến_binh xã kiêm tổ_trưởng tổ nhân_dân một mắt - Arg1: xe_máy bằng hai cùi_tay - 
+- Predicate: kiêm - Arg1: tổ_trưởng tổ nhân_dân - 
+
+( S ( S ( NP-SUB ( R Cứ ) ( N-H nhà ) ( P nào ) ) ( VP ( V-H có ) ( NP-DOB ( N-H người ) ( AP ( A-H ốm_đau ) ( A-H bệnh_hoạn ) ) ) ) ) ( S ( NP-SUB ( N-H anh ) ) ( VP ( R đều ) ( V-H có_mặt ) ) ) )
+- Predicate: có - Arg0: Cứ nhà nào - Arg1: người ốm_đau bệnh_hoạn - 
+- Predicate: có_mặt - Arg0: anh - ArgM-TMP: đều - 
+- Predicate: ốm_đau - Arg0: Cứ nhà nào - ArgM-MOD: có - ArgM-MNR: bệnh_hoạn - 
+- Predicate: bệnh_hoạn - Arg0: Cứ nhà nào - ArgM-MOD: có - ArgM-MNR: ốm_đau - 
+
+( S-SPL ( NP-TMP ( N-H Khi ) ( SBAR ( S ( NP-SUB *E* ) ( VP ( V-H cho ) ( V mượn ) ( NP-DOB ( L chút ) ( N-H tiền ) ) ) ) ) ) ( NP-TMP ( N-H lúc ) ( SBAR ( S ( NP-SUB *E* ) ( VP ( V-H gói ) ( V tặng ) ( NP ( L mấy ) ( Nc-H trái ) ( N cam ) ) ) ) ) ) )
+- Predicate: cho - Arg0: *E* - Arg1: chút tiền - 
+- Predicate: gói - Arg0: *E* - Arg1: mấy trái cam - 
+
+( S ( C Rùi ) ( S ( NP-SUB ( N-H đồng_bào ) ) ( VP ( V-H bị ) ( NP-DOB ( N-H lũ_lụt ) ( N-H hỏa_hoạn ) ) ) ) ( S ( NP-SUB ( Nc-H người ) ( N thương_binh ) ( P ấy ) ) ( VP ( R cũng ) ( V-H lặn_lội ) ( VP-PRP ( V-H đi ) ( V vận_động ) ) ) ) )
+- Predicate: bị - Arg0: đồng_bào - Arg1: lũ_lụt hỏa_hoạn - 
+- Predicate: lặn_lội - Arg0: người thương_binh ấy - ArgM-TMP: cũng - ArgM-PRP: đi vận_động - 
+- Predicate: đi - Arg0: người thương_binh ấy - ArgM-TMP: cũng - ArgM-MOD: lặn_lội - 
+
+( S ( VP-TMP ( V-H Hết ) ( NP ( N-H giờ ) ( V làm_việc ) ) ) ( NP-SUB ( N-H anh ) ) ( VP ( VP ( R lại ) ( V-H xông ) ( V ra ) ( NP-LOC ( N-H đồng ) ) ( VP-PRP ( V-H tỉa ) ( NP-DOB ( N-H đậu ) ) ) ) ( VP ( V-H cho ) ( NP-DOB ( N-H bò ) ( VP ( V-H ăn ) ) ) ) ( VP ( V-H cuốc ) ( NP-DOB ( N-H đất ) ( VP-PRP ( V-H trồng ) ( NP-DOB ( N-H cây ) ) ) ) ) ) )
+- Predicate: Hết - Arg1: giờ làm_việc - Arg0: anh - 
+- Predicate: xông - ArgM-TMP: Hết giờ làm_việc - Arg0: anh - ArgM-TMP: lại - ArgM-MOD: ra - ArgM-LOC: đồng - ArgM-PRP: tỉa đậu - 
+- Predicate: cho - ArgM-TMP: Hết giờ làm_việc - Arg0: anh - Arg1: bò ăn - 
+- Predicate: cuốc - ArgM-TMP: Hết giờ làm_việc - Arg0: anh - Arg1: đất trồng cây - 
+- Predicate: tỉa - ArgM-TMP: Hết giờ làm_việc - Arg0: anh - ArgM-TMP: lại - ArgM-PRP: xông - ArgM-MNR: ra - ArgM-LOC: đồng - Arg1: đậu - 
+- Predicate: ăn - ArgM-TMP: Hết giờ làm_việc - Arg0: anh - ArgM-MOD: cho - 
+- Predicate: trồng - ArgM-TMP: Hết giờ làm_việc - Arg0: anh - ArgM-MOD: cuốc - Arg1: cây - 
+
+( S ( C Vậy_mà ) ( NP-SUB ( N-H cây ) ( N-H trái ) ( NP-LOC ( N-H vườn ) ( N nhà ) ( N anh ) ) ) ( VP ( R cứ ) ( V-H lên ) ( AP-MNR ( A-H xanh ) ) ) )
+- Predicate: lên - Arg0: cây trái vườn nhà anh - ArgM-TMP: cứ - ArgM-MNR: xanh - 
+- Predicate: xanh - ArgM-DIS: Vậy_mà - Arg0: cây trái vườn nhà anh - ArgM-TMP: cứ - ArgM-MOD: lên - 
+
+( S ( PP-ADV ( E-H Từ ) ( NP ( M một ) ( N-H gia_đình ) ( NP ( N-H hạng ) ( AP ( A-H nghèo ) ( R nhất ) ( NP ( N-H xã ) ) ) ) ) ) ( NP-SUB ( Nc-H anh ) ( Np Thanh ) ) ( VP ( V-H được ) ( VP ( V-H vay ) ( N vốn ) ( VP-PRP ( XP ( X-H xóa_đói_giảm_nghèo ) ) ( VP ( V-H chăn_nuôi ) ) ( CC và ) ( VP ( V-H gầy_dựng ) ( R dần ) ) ) ) ) )
+- Predicate: được - ArgM-ADV: Từ một gia_đình hạng nghèo nhất xã - Arg0: anh Thanh - 
+- Predicate: vay - ArgM-ADV: Từ một gia_đình hạng nghèo nhất xã - Arg0: anh Thanh - ArgM-MOD: được - ArgM-PRP: xóa_đói_giảm_nghèo chăn_nuôi và gầy_dựng dần - 
+- Predicate: chăn_nuôi - ArgM-ADV: Từ một gia_đình hạng nghèo nhất xã - Arg0: anh Thanh - ArgM-MOD: được - 
+- Predicate: gầy_dựng - ArgM-ADV: Từ một gia_đình hạng nghèo nhất xã - Arg0: anh Thanh - ArgM-MOD: được - ArgM-TMP: dần - 
+- Predicate: nghèo - ArgM-EXT: nhất - Arg1: xã - Arg0: anh Thanh - 
+
+( S ( PP-TMP ( E-H Đến ) ( NP ( P-H nay ) ) ) ( NP-SUB ( Nc-H ngôi ) ( N nhà ) ( N ngói ) ( NP ( M ba ) ( N-H gian ) ) ( AP ( A-H vững_chãi ) ) ) ( VP ( V-H xây ) ( PP-LOC ( E-H trên ) ( NP ( N-H nền ) ( NP ( Nc-H căn ) ( N nhà ) ( N lá ) ) ) ) ) )
+- Predicate: xây - ArgM-TMP: Đến nay - Arg0: ngôi nhà ngói ba gian vững_chãi - ArgM-LOC: trên nền căn nhà lá - 
+- Predicate: vững_chãi - ArgM-TMP: Đến nay - Arg1: ba gian - 
+
+( S ( NP-SUB-1 ( N-H Anh ) ) ( VP ( VP ( V-H khoe ) ( SBAR ( S ( NP-SUB ( N-H cô ) ( N con_gái ) ) ( PP-TMP ( E-H sau ) ( NP ( N-H khi ) ( VP ( V-H đi ) ( V lao_động ) ( PP-LOC ( E-H ở ) ( NP ( Np-H Nhật ) ) ) ( VP ( V-H về ) ) ) ) ) ( VP ( R nhất_quyết ) ( V-H đi ) ( V học ) ( NP-DOB ( N-H ngành ) ( N y ) ) ) ) ) ) ( VP ( V-H *E* ) ( SBAR ( S ( NP-TMP ( N-H Ngày_xưa ) ) ( NP-SUB-1 *T* ) ( AP-PRD ( A-H nghèo ) ( R quá ) ) ( C nhưng ) ( VP ( R cũng ) ( V-H ráng ) ( VP ( V-H cho ) ( NP-DOB ( L các ) ( N-H con ) ( VP ( V-H học ) ( R hết ) ( NP-DOB ( N-H lớp ) ( M 12 ) ) ) ) ) ) ) ) ) ) )
+- Predicate: khoe - Arg0: Anh - 
+- Predicate: *E* - Arg0: Anh - 
+- Predicate: đi - Arg0: cô con_gái - ArgM-TMP: sau khi đi lao_động ở Nhật về - ArgM-TMP: nhất_quyết - Arg1: ngành y - 
+- Predicate: ráng - ArgM-TMP: Ngày_xưa - Arg0: *T* - ArgM-PRD: nghèo quá - ArgM-DIS: nhưng - ArgM-TMP: cũng - 
+- Predicate: cho - ArgM-TMP: Ngày_xưa - Arg0: *T* - ArgM-PRD: nghèo quá - ArgM-DIS: nhưng - ArgM-TMP: cũng - ArgM-MOD: ráng - Arg1: các con học hết lớp 12 - 
+- Predicate: đi - Arg0: cô con_gái - ArgM-LOC: ở Nhật - 
+- Predicate: về - Arg0: cô con_gái - ArgM-MOD: đi - ArgM-LOC: ở Nhật - Arg4: nhất_quyết đi học ngành y - 
+- Predicate: học - ArgM-TMP: Ngày_xưa - Arg0: *T* - ArgM-PRD: nghèo quá - ArgM-DIS: nhưng - ArgM-TMP: cũng - ArgM-MOD: ráng - ArgM-MOD: cho - ArgM-TMP: hết - Arg1: lớp 12 - 
+- Predicate: nghèo - ArgM-TMP: Ngày_xưa - Arg0: *T* - ArgM-EXT: quá - ArgM-DIS: nhưng - ArgM-TMP: cũng ráng cho các con học hết lớp 12 - 
+
+( S ( NP-TMP ( N-H Giờ ) ) ( NP-SUB ( P-H nó ) ) ( VP ( VP ( V-H đi ) ( VP ( V-H làm ) ( VP ( V-H có ) ( NP-DOB ( L chút ) ( N-H vốn ) ) ) ) ) ( VP ( V-H lấy ) ( NP-DOB ( P-H đó ) ) ( C mà ) ( VP-PRP ( V-H học ) ( V tiếp ) ) ) ) )
+- Predicate: đi - ArgM-TMP: Giờ - Arg0: nó - 
+- Predicate: lấy - ArgM-TMP: Giờ - Arg0: nó - Arg1: đó - ArgM-PRP: học tiếp - 
+- Predicate: làm - ArgM-TMP: Giờ - Arg0: nó - ArgM-MOD: đi - 
+- Predicate: học - ArgM-TMP: Giờ - Arg0: nó - ArgM-MOD: lấy - Arg1: đó - ArgM-TMP: tiếp - 
+- Predicate: có - ArgM-TMP: Giờ - Arg0: nó - ArgM-MOD: đi - ArgM-MOD: làm - Arg1: chút vốn - 
+
+( S ( S ( NP-SUB ( M Mỗi ) ( N-H thước ) ( NP ( N-H đất ) ( N thép ) ) ) ( VP ( R đều ) ( V-H thấm ) ( NP-DOB ( N-H máu_xương ) ( CC và ) ( N-H mồ_hôi ) ) ) ) ( C nên ) ( S ( NP-SUB ( N-H chuyện ) ( NP ( N-H con_người ) ( A lạ_kỳ ) ( PP-LOC ( E-H trên ) ( NP ( N-H xã ) ( N anh_hùng ) ) ) ) ) ( AP-PRD ( R vẫn ) ( R còn ) ( A-H dài ) ) ) )
+- Predicate: thấm - Arg0: Mỗi thước đất thép - ArgM-TMP: đều - Arg1: máu_xương và mồ_hôi - 
+- Predicate: dài - Arg0: chuyện con_người lạ_kỳ trên xã anh_hùng - ArgM-TMP: vẫn - ArgM-TMP: còn - 
+
+( S-SPL ( C Như ) ( NP ( N-H chuyện ) ( SBAR ( S ( NP-SUB ( N-H anh ) ( Z trưởng ) ( N-H công_an ) ( NP ( N-H xã ) ( Np Dương_Văn_Nam ) ) ) ( VP ( VP ( V-H vận_động ) ( VP-PRP ( V-H xây ) ( NP-DOB ( N-H nhà ) ) ) ) ( VP ( V-H tạo ) ( NP-DOB ( N-H việc_làm ) ( PP ( E-H cho ) ( NP ( L những ) ( N-H đối_tượng ) ( VP ( A chuyên ) ( V-H trộm_cắp ) ) ) ) ) ) ) ) ) ) )
+- Predicate: vận_động - Arg0: anh trưởng công_an xã Dương_Văn_Nam - ArgM-PRP: xây nhà - 
+- Predicate: tạo - Arg0: anh trưởng công_an xã Dương_Văn_Nam - Arg1: việc_làm cho những đối_tượng chuyên trộm_cắp - 
+- Predicate: xây - Arg0: anh trưởng công_an xã Dương_Văn_Nam - Arg1: nhà - 
+- Predicate: trộm_cắp - Arg0: anh trưởng công_an xã Dương_Văn_Nam - ArgM-MNR: chuyên - 
+
+( S ( C Như ) ( NP ( N-H chuyện ) ( SBAR ( S ( NP-SUB ( N-H dân ) ) ( VP ( V-H chắt_chiu ) ( VP-PRP ( V-H xây_dựng ) ( NP-DOB ( A gần ) ( M 500 ) ( Nc-H căn ) ( N nhà_tình_nghĩa ) ( N tình_thương ) ) ) ) ) ) ) )
+- Predicate: chắt_chiu - Arg0: dân - ArgM-PRP: xây_dựng gần 500 căn nhà_tình_nghĩa tình_thương - 
+- Predicate: xây_dựng - Arg0: dân - ArgM-MOD: chắt_chiu - Arg1: gần 500 căn nhà_tình_nghĩa tình_thương - 
+
+( S-SPL ( AP ( A-H Khó ) ( SBAR ( S ( NP-SUB ( P-H ai ) ) ( VP ( V-H tin ) ( SBAR ( S ( NP-SUB ( N-H địa_bàn ) ( NP-TMP ( N-H ngày_xưa ) ) ) ( VP ( VP ( V-H có ) ( NP-DOB ( A gần ) ( M 90% ) ( N-H dân ) ( VP ( V-H đi ) ( V buôn_lậu ) ( NP-TMP ( A nhiều ) ( N-H năm ) ) ) ) ) ( VP ( NP-TMP ( A gần ) ( P-H đây ) ) ( VP ( A liên_tục ) ( V-H nhận ) ( NP-DOB ( N-H bằng_khen ) ( PP ( E-H của ) ( NP ( Np-H Bộ ) ( Np Công_an ) ) ) ( SBAR-PRP ( E-H vì ) ( S ( NP-SUB ( N-H địa_bàn ) ) ( VP ( R không ) ( V-H có ) ( NP-DOB ( N-H tệ_nạn ) ) ) ( NP-PRD ( NP ( R không ) ( N-H ma_túy ) ) ( NP ( R không ) ( N-H trộm_cắp ) ) ) ( CC và ) ( VP ( V-H là ) ( NP ( N-H xã ) ( AP ( A-H đầu_tiên ) ( CC và ) ( A-H duy_nhất ) ( PP ( E-H của ) ( NP ( Np TP ) ) ) ) ( VP ( V-H đón_nhận ) ( NP-DOB ( N-H danh_hiệu ) ( NP ( N-H xã ) ( N văn_hóa ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) )
+- Predicate: tin - Arg0: ai - 
+- Predicate: có - Arg0: địa_bàn ngày_xưa - Arg1: gần 90% dân đi buôn_lậu nhiều năm - 
+- Predicate: nhận - Arg0: địa_bàn ngày_xưa - ArgM-TMP: gần đây - ArgM-MNR: liên_tục - Arg1: bằng_khen của Bộ Công_an vì địa_bàn không có tệ_nạn không ma_túy không trộm_cắp và là xã đầu_tiên và duy_nhất của TP đón_nhận danh_hiệu xã văn_hóa - 
+- Predicate: đi - Arg0: địa_bàn ngày_xưa - ArgM-MOD: có - ArgM-MNR: gần - ArgM-TMP: nhiều năm - 
+- Predicate: có - Arg0: địa_bàn - ArgM-NEG: không - Arg1: tệ_nạn - ArgM-PRD: không ma_túy không trộm_cắp - 
+- Predicate: là - Arg0: địa_bàn - ArgM-PRD: không ma_túy không trộm_cắp - Arg1: xã đầu_tiên và duy_nhất của TP đón_nhận danh_hiệu xã văn_hóa - 
+- Predicate: đón_nhận - Arg0: địa_bàn - ArgM-PRD: không ma_túy không trộm_cắp - ArgM-MOD: là - ArgM-TMP: đầu_tiên và duy_nhất của TP - Arg1: danh_hiệu xã văn_hóa - 
+- Predicate: Khó - 
+- Predicate: đầu_tiên - Arg0: địa_bàn - ArgM-PRD: không ma_túy không trộm_cắp - ArgM-MOD: là - ArgM-MOD: duy_nhất - ArgM-CAU: của TP - 
+- Predicate: duy_nhất - Arg0: địa_bàn - ArgM-PRD: không ma_túy không trộm_cắp - ArgM-MOD: là - ArgM-TMP: đầu_tiên - ArgM-TMP: của TP - 
+
+( S-TTL ( VP ( R Sẽ ) ( V-H tổ_chức ) ( NP-DOB ( N-H phố ) ( VP ( V-H đi ) ( N bộ ) ) ) ( PP-LOC ( E-H tại ) ( NP ( Np-H Hội_An ) ) ) ) )
+- Predicate: tổ_chức - ArgM-TMP: Sẽ - Arg1: phố đi bộ - ArgM-LOC: tại Hội_An - 
+- Predicate: đi - ArgM-TMP: Sẽ - ArgM-LOC: tại Hội_An - 
+
+( S ( NP-SUB ( N-H Chủ_tịch ) ( NP ( Np UBND ) ( NP ( N-H tỉnh ) ( Np Quảng_Nam ) ) ) ( NP ( Np-H Nguyễn_Xuân_Phúc ) ) ) ( VP ( V-H cho ) ( V biết ) ( SBAR ( S ( NP-SUB ( N-H tỉnh ) ) ( VP ( VP ( R sẽ ) ( V-H đầu_tư ) ( V xây_dựng ) ( NP-DOB ( N-H khu_phố ) ( V đi ) ( N bộ ) ( PP-LOC ( E-H tại ) ( NP ( M 6 ) ( N-H đường ) ( N phố ) ( AP ( A-H chính ) ) ( PP-LOC ( E-H của ) ( NP ( N-H khu_phố ) ( A cổ ) ( Np Hội_An ) ) ) ) ) ) ) ( C đồng_thời ) ( VP ( V-H tổ_chức ) ( SBAR ( S ( NP-SUB ( NP ( N-H chợ ) ( N đêm ) ) ( NP ( L các ) ( N-H quán ) ( N bar ) ) ( NP ( N-H cà_phê ) ) ( NP ( L các ) ( N-H khu ) ( VP ( V-H vui_chơi ) ( V giải_trí ) ) ) ) ( VP ( V-H mở_cửa ) ( VP-PRP ( V-H phục_vụ ) ( PP ( E-H theo ) ( NP ( N-H yêu_cầu ) ( PP ( E-H của ) ( NP ( N-H du_khách ) ) ) ) ) ) ) ) ) ) ) ) ) ) )
+- Predicate: cho - Arg0: Chủ_tịch UBND tỉnh Quảng_Nam Nguyễn_Xuân_Phúc - 
+- Predicate: đầu_tư - Arg0: tỉnh - ArgM-TMP: sẽ - ArgM-ADV: xây_dựng - Arg1: khu_phố đi bộ tại 6 đường phố chính của khu_phố cổ Hội_An - 
+- Predicate: tổ_chức - Arg0: tỉnh - ArgM-TMP: sẽ đầu_tư xây_dựng khu_phố đi bộ tại 6 đường phố chính của khu_phố cổ Hội_An - 
+- Predicate: mở_cửa - Arg0: chợ đêm các quán bar cà_phê các khu vui_chơi giải_trí - ArgM-PRP: phục_vụ theo yêu_cầu của du_khách - 
+- Predicate: phục_vụ - Arg0: chợ đêm các quán bar cà_phê các khu vui_chơi giải_trí - ArgM-ADV: theo yêu_cầu của du_khách - 
+- Predicate: vui_chơi - ArgM-LOC: chợ đêm - Arg1: các quán bar - ArgM-MNR: giải_trí - 
+- Predicate: chính - Arg0: tỉnh - ArgM-TMP: sẽ - ArgM-ADV: xây_dựng - Arg1: đi - ArgM-LOC: của khu_phố cổ Hội_An - 
+
+( S ( PP-LOC ( E-H Tại ) ( NP ( L các ) ( N-H điểm ) ( V du_lịch ) ( P này ) ) ) ( NP-SUB *E* ) ( VP ( VP ( R sẽ ) ( V-H tổ_chức ) ( NP-DOB ( L các ) ( N-H lễ_hội ) ( C như ) ( NP ( N-H đêm ) ( N rằm ) ( NP ( N-H phố ) ( A cổ ) ) ) ) ( NP-TMP ( M mỗi ) ( N-H tuần ) ( NP ( M một ) ( N-H lần ) ) ) ) ( CC và ) ( VP ( V-H tổ_chức ) ( NP-DOB ( L các ) ( N-H hội_nghị ) ( N quốc_tế ) ) ) ( CC và ) ( VP ( V-H mở ) ( NP-DOB ( L các ) ( N-H tour ) ( VP ( V-H du_lịch ) ( NP ( N-H làng_nghề ) ( A truyền_thống ) ) ) ) ) ) )
+- Predicate: tổ_chức - ArgM-LOC: Tại các điểm du_lịch này - Arg0: *E* - ArgM-TMP: sẽ - Arg1: các lễ_hội như đêm rằm phố cổ - ArgM-TMP: mỗi tuần một lần - 
+- Predicate: tổ_chức - ArgM-LOC: Tại các điểm du_lịch này - Arg0: *E* - ArgM-TMP: sẽ tổ_chức các lễ_hội như đêm rằm phố cổ mỗi tuần một lần - Arg1: các hội_nghị quốc_tế - 
+- Predicate: mở - ArgM-LOC: Tại các điểm du_lịch này - Arg0: *E* - ArgM-TMP: sẽ tổ_chức các lễ_hội như đêm rằm phố cổ mỗi tuần một lần - Arg1: các tour du_lịch làng_nghề truyền_thống - 
+- Predicate: du_lịch - ArgM-LOC: Tại các điểm du_lịch này - Arg0: *E* - Arg1: làng_nghề truyền_thống - 
+
+( S ( PP-TPC ( R Cũng ) ( E-H trong ) ( NP ( N-H chương_trình ) ( VP ( V-H đẩy_mạnh ) ( VP ( V-H phát_triển ) ( NP ( N-H du_lịch ) ) ( NP ( P-H này ) ) ) ) ) ) ( NP-SUB ( N-H tổ_chức ) ( Np JICA ) ( NP ( Np-H Nhật_Bản ) ) ) ( VP ( R đã ) ( V-H đề_nghị ) ( NP-DOB ( Np-H Quảng_Nam ) ) ( VP ( V-H triển_khai ) ( A nhanh ) ( NP ( M 10 ) ( N-H dự_án ) ( SBAR-PRP ( E-H do ) ( S ( NP-SUB ( Np-H ICA ) ) ( VP ( V-H đề_xuất ) ( PP ( E-H trong ) ( VP ( V-H phát_triển ) ( NP ( N-H du_lịch ) ( NP ( N-H miền ) ( Np Trung ) ) ) ) ) ) ) ) ( C như ) ( NP ( N-H dự_án ) ( NP ( N-H Trung_tâm ) ( N thông_tin ) ( N du_lịch ) ) ( VP ( V-H phát_triển ) ( NP-DOB ( N-H bãi ) ( VP ( V-H đậu ) ( V-H đổ ) ( NP-DOB ( N-H xe ) ) ( NP-LOC ( N-H bên ) ( NP ( N-H đường ) ) ) ) ) ) ) ( NP ( N-H mạng_lưới ) ( N thông_tin ) ( NP ( N-H bảo_tàng ) ( N lịch_sử ) ( N văn_hoá ) ) ) ( NP ( N-H dự_án ) ( NP ( N-H Trung_tâm ) ( N du_khách ) ) ) ( NP ( N-H mạng_lưới ) ( NP ( N-H đường_bộ ) ( NP-LOC ( N-H ven ) ( N biển ) ) ) ) ( NP ( N-H chương_trình ) ( NP ( N-H phòng ) ( V trưng_bày ) ( NP-LOC ( N-H khu ) ( NP ( N-H tháp ) ( Np Chăm ) ( NP ( Np-H Mỹ_Sơn ) ) ) ) ) ) ( NP ( N-H chương_trình ) ( VP ( V-H giảm_thiểu ) ( NP-DOB ( N-H tác_động ) ( PP ( E-H của ) ( NP ( N-H lũ ) ( PP-LOC ( E-H tại ) ( NP ( N-H đô_thị ) ( A cổ ) ( Np Hội_An ) ) ) ) ) ) ) ) ( NP ( N-H chương_trình ) ( VP ( V-H quản_lý ) ( NP ( N-H đô_thị ) ( A cổ ) ( Np Hội_An ) ) ) ( VP ( V-H quản_lý ) ( NP ( N-H khu ) ( NP ( N-H tháp ) ( Np Chăm ) ( NP ( Np-H Mỹ_Sơn ) ) ) ) ) ) ( NP ( N-H Chương_trình ) ( VP ( V-H Hỗ_trợ ) ( NP-DOB ( N-H du_lịch ) ( N đồng_quê ) ) ) ) ) ) ) )
+- Predicate: đề_nghị - ArgM-ADV: Cũng trong chương_trình đẩy_mạnh phát_triển du_lịch này - Arg0: tổ_chức JICA Nhật_Bản - ArgM-TMP: đã - Arg1: Quảng_Nam - 
+- Predicate: triển_khai - ArgM-ADV: Cũng trong chương_trình đẩy_mạnh phát_triển du_lịch này - Arg0: tổ_chức JICA Nhật_Bản - ArgM-TMP: đã - ArgM-MOD: đề_nghị - Arg1: Quảng_Nam - ArgM-MNR: nhanh - 
+- Predicate: đẩy_mạnh - ArgM-TMP: Cũng - Arg0: tổ_chức JICA Nhật_Bản - ArgM-TMP: đã đề_nghị Quảng_Nam triển_khai nhanh 10 dự_án do ICA đề_xuất trong phát_triển du_lịch miền Trung như dự_án Trung_tâm thông_tin du_lịch phát_triển bãi đậu đổ xe bên đường mạng_lưới thông_tin bảo_tàng lịch_sử văn_hoá dự_án Trung_tâm du_khách mạng_lưới đường_bộ ven biển chương_trình phòng trưng_bày khu tháp Chăm Mỹ_Sơn chương_trình giảm_thiểu tác_động của lũ tại đô_thị cổ Hội_An chương_trình quản_lý đô_thị cổ Hội_An quản_lý khu tháp Chăm Mỹ_Sơn Chương_trình Hỗ_trợ du_lịch đồng_quê - 
+- Predicate: phát_triển - ArgM-TMP: Cũng - Arg0: tổ_chức JICA Nhật_Bản - ArgM-TMP: đã đề_nghị Quảng_Nam triển_khai nhanh 10 dự_án do ICA đề_xuất trong phát_triển du_lịch miền Trung như dự_án Trung_tâm thông_tin du_lịch phát_triển bãi đậu đổ xe bên đường mạng_lưới thông_tin bảo_tàng lịch_sử văn_hoá dự_án Trung_tâm du_khách mạng_lưới đường_bộ ven biển chương_trình phòng trưng_bày khu tháp Chăm Mỹ_Sơn chương_trình giảm_thiểu tác_động của lũ tại đô_thị cổ Hội_An chương_trình quản_lý đô_thị cổ Hội_An quản_lý khu tháp Chăm Mỹ_Sơn Chương_trình Hỗ_trợ du_lịch đồng_quê - 
+- Predicate: phát_triển - ArgM-ADV: Cũng trong chương_trình đẩy_mạnh phát_triển du_lịch này - Arg0: tổ_chức JICA Nhật_Bản - ArgM-TMP: đã - ArgM-MOD: đề_nghị - Arg1: Quảng_Nam - ArgM-MNR: nhanh - 
+- Predicate: giảm_thiểu - ArgM-ADV: Cũng trong chương_trình đẩy_mạnh phát_triển du_lịch này - Arg0: tổ_chức JICA Nhật_Bản - ArgM-TMP: đã - ArgM-MOD: đề_nghị - ArgM-MNR: nhanh - ArgM-ADV: dự_án Trung_tâm thông_tin du_lịch phát_triển bãi đậu đổ xe bên đường - ArgM-ADV: dự_án Trung_tâm du_khách - Arg1: tác_động của lũ tại đô_thị cổ Hội_An - 
+- Predicate: quản_lý - ArgM-ADV: Cũng trong chương_trình đẩy_mạnh phát_triển du_lịch này - Arg0: tổ_chức JICA Nhật_Bản - ArgM-TMP: đã - ArgM-MOD: đề_nghị - Arg1: Quảng_Nam - ArgM-MNR: nhanh - 
+- Predicate: quản_lý - ArgM-ADV: Cũng trong chương_trình đẩy_mạnh phát_triển du_lịch này - Arg0: tổ_chức JICA Nhật_Bản - ArgM-TMP: đã - ArgM-MOD: đề_nghị - Arg1: Quảng_Nam - ArgM-MNR: nhanh - 
+- Predicate: Hỗ_trợ - ArgM-ADV: Cũng trong chương_trình đẩy_mạnh phát_triển du_lịch này - Arg0: tổ_chức JICA Nhật_Bản - ArgM-TMP: đã - ArgM-MOD: đề_nghị - Arg1: Quảng_Nam - ArgM-MNR: nhanh - 
+- Predicate: đề_xuất - Arg0: ICA - ArgM-ADV: trong phát_triển du_lịch miền Trung - 
+- Predicate: đậu - ArgM-ADV: Cũng trong chương_trình đẩy_mạnh phát_triển du_lịch này - Arg0: tổ_chức JICA Nhật_Bản - ArgM-TMP: đã - ArgM-MOD: đề_nghị - ArgM-MNR: nhanh - ArgM-DIS: như - ArgM-MOD: đổ - Arg1: xe - ArgM-LOC: bên đường - ArgM-ADV: dự_án Trung_tâm du_khách - ArgM-ADV: chương_trình phòng trưng_bày khu tháp Chăm Mỹ_Sơn - ArgM-ADV: chương_trình giảm_thiểu tác_động của lũ tại đô_thị cổ Hội_An - ArgM-ADV: chương_trình quản_lý đô_thị cổ Hội_An quản_lý khu tháp Chăm Mỹ_Sơn - ArgM-ADV: Chương_trình Hỗ_trợ du_lịch đồng_quê - 
+- Predicate: đổ - ArgM-ADV: Cũng trong chương_trình đẩy_mạnh phát_triển du_lịch này - Arg0: tổ_chức JICA Nhật_Bản - ArgM-TMP: đã - ArgM-MOD: đề_nghị - ArgM-MNR: nhanh - ArgM-PRP: do ICA đề_xuất trong phát_triển du_lịch miền Trung - ArgM-MOD: đậu - Arg1: xe - ArgM-LOC: bên đường - ArgM-ADV: dự_án Trung_tâm du_khách - ArgM-ADV: chương_trình phòng trưng_bày khu tháp Chăm Mỹ_Sơn - ArgM-ADV: chương_trình giảm_thiểu tác_động của lũ tại đô_thị cổ Hội_An - ArgM-ADV: chương_trình quản_lý đô_thị cổ Hội_An quản_lý khu tháp Chăm Mỹ_Sơn - ArgM-ADV: Chương_trình Hỗ_trợ du_lịch đồng_quê - 
+- Predicate: phát_triển - Arg0: ICA - 
+
