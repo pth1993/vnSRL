@@ -18,7 +18,7 @@ The simple way to install them is using pip:
 
 ## 3. Usage
 
-### 3.1. Data:
+### 3.1. Data
 
 The input data's format of vnSRL is Penn Treebank format. For details, see sample data *100-sen.txt* in a directory **'data/input'**.
 
