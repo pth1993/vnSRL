@@ -37,7 +37,7 @@ You can use vnSRL software by a following command:
 Positional arguments:
 
 * ``input``:       input file name
-* ``ilp``:         integer linear programming post-processing (1 denote for using ilp and 0 denote for vice versa)
+* ``ilp``:         integer linear programming post-processing (1 for using ilp and 0 for vice versa)
 * ``embedding``:   word embedding file (skipgram or glove)
 * ``output``:      output file name
 
