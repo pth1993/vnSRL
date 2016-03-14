@@ -8,12 +8,12 @@ The **vnSRL** system is used to labelling semantic roles of arguments for each p
 
 ## 2. Installation
 
-This software depends on NumPy, Scikit-learn, Pandas, Pulp, ETE2, five Python packages for scientific computing. You must have them installed prior to using vnSRL.
+This software depends on NumPy, SciPy, Scikit-learn, Pandas, Pulp, ETE2, five Python packages for scientific computing. You must have them installed prior to using vnSRL.
 
 The simple way to install them is using pip:
 
 ```sh
-	# pip install -U numpy scikit-learn pandas pulp ete2
+	# pip install -U numpy scipy scikit-learn pandas pulp ete2
 ```
 
 ## 3. Usage
